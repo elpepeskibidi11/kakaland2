@@ -635,3 +635,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [19Dec2024 18:56:32.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <9zcoloskibidi> x donde3
 [19Dec2024 18:56:39.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> encontraste tu loot?
 [19Dec2024 18:56:43.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <9zcoloskibidi> sibro
+[19Dec2024 19:00:41.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi has made the advancement [Blade Arts -Combo C-              ]
+[19Dec2024 19:00:54.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi has made the advancement [Blade Arts -Aerial Rave B-       ]
+[19Dec2024 19:00:54.733] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElTata_[/127.84.218.170:44289] logged in with entity id 112260 at (-3709.4332190803957, 139.80000000000024, 3848.3439713489356)
+[19Dec2024 19:00:54.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTata_ joined the game
+[19Dec2024 19:00:55.579] [Server thread/INFO] [Jade/]: Syncing config to ElTata_ (596de23a-5665-3bed-874d-497170c43242)
+[19Dec2024 19:01:18.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi has made the advancement [Blade Arts -Aerial Rave A-       ]
+[19Dec2024 19:01:21.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi has made the advancement [Abilities -Enemy Step-           ]
+[19Dec2024 19:03:04.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi has made the advancement [Abilities -Kick Jump-            ]
+[19Dec2024 19:03:30.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi was blown up by Creeper
+[19Dec2024 19:04:31.347] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathan1122 lost connection: Disconnected
+[19Dec2024 19:04:31.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 left the game
+[19Dec2024 19:06:53.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTata_ has made the advancement [Who is Cutting Onions?]
+[19Dec2024 19:16:49.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTata_ has reached the goal [New Age Librarian]
+[19Dec2024 19:17:28.705] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/129927, l='ServerLevel[world]', x=-8429.50, y=75.00, z=3622.50]
