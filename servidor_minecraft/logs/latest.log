@@ -649,3 +649,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [19Dec2024 19:06:53.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTata_ has made the advancement [Who is Cutting Onions?]
 [19Dec2024 19:16:49.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTata_ has reached the goal [New Age Librarian]
 [19Dec2024 19:17:28.705] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/129927, l='ServerLevel[world]', x=-8429.50, y=75.00, z=3622.50]
+[19Dec2024 19:20:41.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 9zcoloskibidi moved too quickly! 98.01635878228535,142.0,40.22527639858163
+[19Dec2024 19:22:35.354] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/134013, l='ServerLevel[world]', x=-9341.50, y=75.00, z=3476.50]
+[19Dec2024 19:25:55.856] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/135802, l='ServerLevel[world]', x=-9341.50, y=75.00, z=3474.50]
+[19Dec2024 19:27:47.953] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/137514, l='ServerLevel[world]', x=-9342.50, y=75.00, z=3474.50]
+[19Dec2024 19:28:47.504] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/137906, l='ServerLevel[world]', x=-9341.50, y=75.00, z=3475.50]
+[19Dec2024 19:31:19.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <9zcoloskibidi> tenes una soga
+[19Dec2024 19:31:29.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElTata_> no
+[19Dec2024 19:31:31.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElTata_> unite a ds
+[19Dec2024 19:31:36.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <9zcoloskibidi> hermano
+[19Dec2024 19:31:39.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElTata_> estamos en una buena conversacion
+[19Dec2024 19:31:47.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElTata_> con facu fortino
+[19Dec2024 19:36:39.183] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nayitoo[/127.211.51.10:45033] logged in with entity id 141989 at (-867.8783737392629, 113.0, 16624.925454305816)
+[19Dec2024 19:36:39.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nayitoo joined the game
+[19Dec2024 19:36:39.205] [Server thread/INFO] [Jade/]: Syncing config to Nayitoo (5c3d2dbf-c1e2-33dc-8254-1ae2b9d6529a)
+[19Dec2024 19:39:04.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 9zcoloskibidi moved too quickly! 126.71251537736225,115.0,-91.565731852927

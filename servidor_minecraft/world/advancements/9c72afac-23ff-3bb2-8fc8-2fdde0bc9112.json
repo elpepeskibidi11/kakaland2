@@ -3721,9 +3721,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-19 19:23:37 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/walnut_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-19 19:06:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-12-19 19:23:37 +0000"
     },
     "done": true
   },
@@ -3763,6 +3775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-12-19 19:23:37 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/walnut_sign": {
     "criteria": {
       "has_planks": "2024-12-19 19:06:08 +0000"
@@ -3799,15 +3817,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-19 19:23:37 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/walnut_stairs": {
     "criteria": {
       "has_planks": "2024-12-19 19:06:08 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-12-19 19:23:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-12-19 19:00:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-19 19:23:37 +0000"
     },
     "done": true
   },
@@ -3832,6 +3868,12 @@
   "slashblade:abilities/kick_jump": {
     "criteria": {
       "customtrigger": "2024-12-19 19:03:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-19 19:23:37 +0000"
     },
     "done": true
   },

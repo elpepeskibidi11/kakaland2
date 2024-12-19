@@ -3272,111 +3272,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blast_furnace": {
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
-      "has_smooth_stone": "2024-12-19 02:51:31 +0000"
-    },
-    "done": true
-  },
-  "domum_ornamentum:recipes/tools/mossy_cobblestone_extra": {
-    "criteria": {
-      "has_material": "2024-12-19 02:16:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2024-12-19 02:39:31 +0000"
-    },
-    "done": true
-  },
-  "ecologics:recipes/food/beetroot_soup_from_coconut_husk": {
-    "criteria": {
-      "has_beetroot": "2024-12-19 01:54:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_glazed_terracotta": {
-    "criteria": {
-      "has_white_terracotta": "2024-12-19 02:15:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2024-12-19 01:54:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2024-12-19 01:32:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-12-19 02:16:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_bed": {
-    "criteria": {
-      "has_yellow_wool": "2024-12-19 02:09:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2024-12-19 01:32:58 +0000"
-    },
-    "done": true
-  },
-  "ecologics:recipes/ecologics/walnut_planks": {
-    "criteria": {
-      "has_logs": "2024-12-19 02:27:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone": {
-    "criteria": {
-      "has_the_recipe": "2024-12-19 02:51:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2024-12-19 02:15:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2024-12-19 02:51:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2024-12-19 02:30:51 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_grottol": {
-    "criteria": {
-      "grottol": "2024-12-19 03:31:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2024-12-19 02:51:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-12-19 02:16:19 +0000"
+      "has_carrot": "2024-12-19 01:11:54 +0000"
     },
     "done": true
   },
@@ -3386,21 +3284,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+  "skilltree:recipes/misc/scholar_necklace": {
     "criteria": {
-      "has_mossy_cobblestone": "2024-12-19 02:16:19 +0000"
+      "has_ender_pearl": "2024-12-19 01:27:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/flower_banner_pattern": {
+  "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
-      "has_oxeye_daisy": "2024-12-19 02:16:20 +0000"
+      "has_bowl": "2024-12-19 01:30:06 +0000"
     },
     "done": true
   },
-  "ecologics:recipes/ecologics/pot": {
+  "minecraft:recipes/decorations/snow": {
     "criteria": {
-      "has_terracotta": "2024-12-19 02:15:53 +0000"
+      "has_snowball": "2024-12-19 01:32:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-19 01:32:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-19 01:32:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2024-12-19 01:38:03 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/food/beetroot_soup_from_coconut_husk": {
+    "criteria": {
+      "has_beetroot": "2024-12-19 01:54:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-19 01:54:17 +0000"
     },
     "done": true
   },
@@ -3410,33 +3338,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+  "minecraft:recipes/decorations/yellow_bed": {
     "criteria": {
-      "has_mossy_cobblestone": "2024-12-19 02:16:19 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/misc/scholar_necklace": {
-    "criteria": {
-      "has_ender_pearl": "2024-12-19 01:27:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2024-12-19 01:11:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-12-19 02:16:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dripstone_block": {
-    "criteria": {
-      "has_pointed_dripstone": "2024-12-19 01:38:03 +0000"
+      "has_yellow_wool": "2024-12-19 02:09:13 +0000"
     },
     "done": true
   },
@@ -3452,21 +3356,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-19 02:15:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2024-12-19 02:15:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
-      "has_oxeye_daisy": "2024-12-19 02:16:20 +0000"
+      "has_white_terracotta": "2024-12-19 02:15:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
+  "ecologics:recipes/ecologics/pot": {
     "criteria": {
-      "has_bowl": "2024-12-19 01:30:06 +0000"
+      "has_terracotta": "2024-12-19 02:15:53 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/mossy_cobblestone_extra": {
+    "criteria": {
+      "has_material": "2024-12-19 02:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-19 02:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-19 02:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-19 02:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-19 02:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-19 02:16:19 +0000"
     },
     "done": true
   },
@@ -3476,21 +3422,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-19 02:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-19 02:16:20 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/walnut_planks": {
+    "criteria": {
+      "has_logs": "2024-12-19 02:27:06 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/walnut_wood": {
     "criteria": {
       "has_log": "2024-12-19 02:27:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/snow_block": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "has_snowball": "2024-12-19 01:32:56 +0000"
+      "traded": "2024-12-19 02:30:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-19 02:39:31 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2024-12-19 02:39:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_the_recipe": "2024-12-19 02:51:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-19 02:51:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-19 02:51:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-19 02:51:31 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_grottol": {
+    "criteria": {
+      "grottol": "2024-12-19 03:31:34 +0000"
     },
     "done": true
   },
