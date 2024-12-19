@@ -1816,6 +1816,7 @@
       "minecraft:vindicator": "2024-12-18 00:31:36 +0000",
       "minecraft:magma_cube": "2024-12-19 00:41:27 +0000",
       "minecraft:spider": "2024-12-18 01:13:07 +0000",
+      "minecraft:piglin_brute": "2024-12-19 17:54:24 +0000",
       "minecraft:creeper": "2024-12-18 01:47:27 +0000",
       "minecraft:piglin": "2024-12-18 03:46:05 +0000",
       "minecraft:enderman": "2024-12-18 18:01:17 +0000",
@@ -2816,7 +2817,8 @@
   },
   "too_many_bows:master_bow_collector": {
     "criteria": {
-      "emerald_sage_bow": "2024-12-18 01:58:23 +0000"
+      "emerald_sage_bow": "2024-12-18 01:58:23 +0000",
+      "vitality_weaver": "2024-12-19 17:55:35 +0000"
     },
     "done": false
   },
@@ -2840,6 +2842,7 @@
   },
   "soulsweapons:all_weapons": {
     "criteria": {
+      "guts": "2024-12-19 17:53:45 +0000",
       "darkin_blade": "2024-12-19 00:24:40 +0000",
       "bluemoon_great": "2024-12-18 02:19:39 +0000"
     },
@@ -3209,6 +3212,7 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-12-18 04:51:34 +0000",
       "minecraft:nether_wastes": "2024-12-18 03:45:01 +0000",
+      "minecraft:soul_sand_valley": "2024-12-19 17:52:49 +0000",
       "minecraft:basalt_deltas": "2024-12-18 23:21:18 +0000"
     },
     "done": false
@@ -5287,15 +5291,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_button": {
-    "criteria": {
-      "has_planks": "2024-12-19 17:27:16 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/decorations/wood/dark_oak_banister": {
     "criteria": {
       "has_item": "2024-12-19 16:53:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-19 16:53:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-19 17:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-12-19 17:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-12-19 17:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2024-12-19 17:27:16 +0000"
     },
     "done": true
   },
@@ -5317,12 +5345,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2024-12-19 16:53:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2024-12-19 17:27:16 +0000"
@@ -5332,12 +5354,6 @@
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2024-12-19 17:27:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2024-12-19 17:22:22 +0000"
     },
     "done": true
   },
@@ -5359,15 +5375,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_wood": {
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
-      "has_log": "2024-12-19 17:26:47 +0000"
+      "has_netherite_upgrade_smithing_template": "2024-12-19 17:55:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_planks": {
+  "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
-      "has_log": "2024-12-19 17:26:47 +0000"
+      "has_ender_eye": "2024-12-19 17:51:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-19 17:50:19 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:heap_of_iron": {
+    "criteria": {
+      "soulsweapons:guts_sword": "2024-12-19 17:53:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2024-12-19 17:55:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-19 17:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-12-19 17:51:22 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/eyes_recipe": {
+    "criteria": {
+      "eyes": "2024-12-19 17:51:22 +0000"
     },
     "done": true
   },

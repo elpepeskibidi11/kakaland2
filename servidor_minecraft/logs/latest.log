@@ -570,3 +570,35 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [19Dec2024 17:35:25.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> cuando llegues manda msj
 [19Dec2024 17:35:26.866] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathan1122 lost connection: Disconnected
 [19Dec2024 17:35:26.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 left the game
+[19Dec2024 17:48:29.666] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jonathan1122[/127.169.8.59:33001] logged in with entity id 49593 at (2246.799606434928, 95.0, -1256.9366342272253)
+[19Dec2024 17:48:29.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 joined the game
+[19Dec2024 17:48:29.704] [Server thread/INFO] [Jade/]: Syncing config to jonathan1122 (a07659a6-8778-3286-b26a-0e06bd88dc78)
+[19Dec2024 17:49:59.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> y pa??
+[19Dec2024 17:50:02.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> se llega
+[19Dec2024 17:50:16.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <9zcoloskibidi> hermano le meto turbo
+[19Dec2024 17:50:19.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Hot Stuff]
+[19Dec2024 17:50:37.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <9zcoloskibidi> q mala leche amig oestaba r piola lpm,
+[19Dec2024 17:52:16.704] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/53343, l='ServerLevel[world]', x=1577.50, y=73.00, z=568.50]
+[19Dec2024 17:52:21.604] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/53389, l='ServerLevel[world]', x=1557.50, y=74.00, z=559.50]
+[19Dec2024 17:53:02.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Those Were the Days]
+[19Dec2024 17:53:03.003] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/54938, l='ServerLevel[world]', x=1280.50, y=73.00, z=545.50]
+[19Dec2024 17:53:45.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has reached the goal [My Brother]
+[19Dec2024 17:55:20.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [War Pigs]
+[19Dec2024 17:55:35.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <9zcoloskibidi> toy llegamndo
+[19Dec2024 17:55:40.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> oka
+[19Dec2024 17:59:36.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <9zcoloskibidi> estoy
+[19Dec2024 17:59:40.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> ahi voy
+[19Dec2024 18:00:09.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi was blown up by Creeper
+[19Dec2024 18:00:11.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> buw
+[19Dec2024 18:00:15.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <9zcoloskibidi> amigo
+[19Dec2024 18:00:17.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> sos crack
+[19Dec2024 18:00:30.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <9zcoloskibidi> guarde waypoint
+[19Dec2024 18:00:33.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <9zcoloskibidi> t jur o
+[19Dec2024 18:00:44.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi was blown up by Creeper
+[19Dec2024 18:01:31.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <9zcoloskibidi> 800 metros
+[19Dec2024 18:03:04.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <9zcoloskibidi> comida
+[19Dec2024 18:03:16.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <9zcoloskibidi> tpm,
+[19Dec2024 18:03:17.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <9zcoloskibidi> toma
+[19Dec2024 18:04:37.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <9zcoloskibidi> bro
+[19Dec2024 18:04:43.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <9zcoloskibidi> termino t t lo doy
+[19Dec2024 18:04:46.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> oka
