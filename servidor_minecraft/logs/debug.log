@@ -6795,3 +6795,66 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [19Dec2024 16:59:23.719] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/8887, l='ServerLevel[world]', x=1726.21, y=46.20, z=5084.93, removed=UNLOADED_TO_CHUNK]
 [19Dec2024 16:59:23.779] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Dec2024 16:59:23.787] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 17:02:04.075] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[19Dec2024 17:02:26.516] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7463ms or 149 ticks behind
+[19Dec2024 17:02:27.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> t
+[19Dec2024 17:02:49.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8455ms or 169 ticks behind
+[19Dec2024 17:03:07.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2972ms or 59 ticks behind
+[19Dec2024 17:04:19.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElTata_> facu no podes mover el scoreboard a la izquierda
+[19Dec2024 17:04:44.698] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 17:04:44.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 17:05:02.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> veo
+[19Dec2024 17:07:33.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> no lo puedo cambiar de lado
+[19Dec2024 17:07:37.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> lo tendria que poner en el tab
+[19Dec2024 17:07:42.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> pero se irian los corazones
+[19Dec2024 17:08:01.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonathan1122: Set display slot list to show objective Muertes]
+[19Dec2024 17:08:16.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonathan1122: Cleared any objectives in display slot sidebar]
+[19Dec2024 17:09:44.634] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 17:09:44.643] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 17:11:13.401] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 17:11:13.418] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 17:11:35.450] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/18653, l='ServerLevel[world]', x=-696.61, y=-31.52, z=4044.63], dimensionLocationPath overworld
+[19Dec2024 17:11:35.451] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/18653, l='ServerLevel[world]', x=-696.61, y=-31.52, z=4044.63] in list []
+[19Dec2024 17:11:36.335] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/18653, l='ServerLevel[world]', x=-696.88, y=-34.00, z=4044.51, removed=DISCARDED]
+[19Dec2024 17:11:46.244] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-976, y=63, z=4112}
+[19Dec2024 17:11:46.248] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-999, y=51, z=4149}
+[19Dec2024 17:11:46.251] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-970, y=44, z=4126}
+[19Dec2024 17:11:46.509] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-976, y=63, z=4112}
+[19Dec2024 17:11:46.512] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-999, y=51, z=4149}
+[19Dec2024 17:11:46.514] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-970, y=44, z=4126}
+[19Dec2024 17:11:46.515] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-970, y=44, z=4133}
+[19Dec2024 17:11:47.125] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-976, y=63, z=4112}
+[19Dec2024 17:11:47.129] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-999, y=51, z=4149}
+[19Dec2024 17:11:48.917] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-976, y=63, z=4112}
+[19Dec2024 17:11:48.920] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-999, y=51, z=4149}
+[19Dec2024 17:11:48.921] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-988, y=52, z=4123}
+[19Dec2024 17:11:48.923] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-990, y=44, z=4132}
+[19Dec2024 17:11:48.923] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-977, y=44, z=4126}
+[19Dec2024 17:11:48.923] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-983, y=44, z=4119}
+[19Dec2024 17:11:48.939] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-976, y=63, z=4112}
+[19Dec2024 17:11:48.944] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-979, y=58, z=4144}
+[19Dec2024 17:11:48.944] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-999, y=51, z=4149}
+[19Dec2024 17:11:48.947] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-990, y=44, z=4132}
+[19Dec2024 17:11:48.948] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-977, y=44, z=4126}
+[19Dec2024 17:11:48.948] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-983, y=44, z=4139}
+[19Dec2024 17:11:49.094] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-976, y=63, z=4112}
+[19Dec2024 17:11:49.097] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-979, y=58, z=4144}
+[19Dec2024 17:11:49.097] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-999, y=51, z=4149}
+[19Dec2024 17:11:50.956] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-976, y=63, z=4112}
+[19Dec2024 17:11:50.981] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-999, y=51, z=4149}
+[19Dec2024 17:11:51.000] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-976, y=63, z=4112}
+[19Dec2024 17:11:51.029] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-999, y=51, z=4149}
+[19Dec2024 17:11:51.074] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-976, y=63, z=4112}
+[19Dec2024 17:11:51.079] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-999, y=51, z=4149}
+[19Dec2024 17:12:43.902] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/19775, l='ServerLevel[world]', x=-857.32, y=73.55, z=3912.48], dimensionLocationPath overworld
+[19Dec2024 17:12:43.902] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/19775, l='ServerLevel[world]', x=-857.32, y=73.55, z=3912.48] in list []
+[19Dec2024 17:12:47.852] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/19787, l='ServerLevel[world]', x=-857.63, y=73.37, z=3909.36], dimensionLocationPath overworld
+[19Dec2024 17:12:47.852] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/19787, l='ServerLevel[world]', x=-857.63, y=73.37, z=3909.36] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@4d3f]
+[19Dec2024 17:13:46.152] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/20085, l='ServerLevel[world]', x=-851.51, y=82.60, z=3879.61], dimensionLocationPath overworld
+[19Dec2024 17:13:46.152] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/20085, l='ServerLevel[world]', x=-851.51, y=82.60, z=3879.61] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@4d3f, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@4d4b]
+[19Dec2024 17:13:47.402] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/20085, l='ServerLevel[world]', x=-850.21, y=79.94, z=3878.03, removed=DISCARDED]
+[19Dec2024 17:13:51.052] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/20100, l='ServerLevel[world]', x=-848.65, y=82.56, z=3879.74], dimensionLocationPath overworld
+[19Dec2024 17:13:51.052] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/20100, l='ServerLevel[world]', x=-848.65, y=82.56, z=3879.74] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@4d3f, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@4d4b]
+[19Dec2024 17:13:51.552] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/20100, l='ServerLevel[world]', x=-848.75, y=82.32, z=3878.90, removed=DISCARDED]
+[19Dec2024 17:14:44.665] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 17:14:44.674] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

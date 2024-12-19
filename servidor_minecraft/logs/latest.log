@@ -515,3 +515,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [19Dec2024 16:49:26.706] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2504ms or 50 ticks behind
 [19Dec2024 16:49:43.935] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2233ms or 44 ticks behind
 [19Dec2024 16:50:13.270] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2518ms or 50 ticks behind
+[19Dec2024 17:02:04.075] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[19Dec2024 17:02:26.516] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7463ms or 149 ticks behind
+[19Dec2024 17:02:27.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> t
+[19Dec2024 17:02:49.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8455ms or 169 ticks behind
+[19Dec2024 17:03:07.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2972ms or 59 ticks behind
+[19Dec2024 17:04:19.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElTata_> facu no podes mover el scoreboard a la izquierda
+[19Dec2024 17:05:02.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> veo
+[19Dec2024 17:07:33.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> no lo puedo cambiar de lado
+[19Dec2024 17:07:37.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> lo tendria que poner en el tab
+[19Dec2024 17:07:42.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> pero se irian los corazones
+[19Dec2024 17:08:01.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonathan1122: Set display slot list to show objective Muertes]
+[19Dec2024 17:08:16.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonathan1122: Cleared any objectives in display slot sidebar]
+[19Dec2024 17:11:13.401] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 17:11:13.418] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 17:11:48.921] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-988, y=52, z=4123}
