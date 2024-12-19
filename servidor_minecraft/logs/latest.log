@@ -673,3 +673,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [19Dec2024 19:56:07.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nayitoo has completed the challenge [It Spreads]
 [19Dec2024 20:00:10.133] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTata_ lost connection: Disconnected
 [19Dec2024 20:00:10.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTata_ left the game
+[19Dec2024 20:01:46.176] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElTata_[/127.84.218.170:60557] logged in with entity id 167992 at (-17566.910773950956, 83.30000000000005, 3646.787290958539)
+[19Dec2024 20:01:46.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTata_ joined the game
+[19Dec2024 20:01:46.789] [Server thread/INFO] [Jade/]: Syncing config to ElTata_ (596de23a-5665-3bed-874d-497170c43242)
+[19Dec2024 20:05:41.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElTata_> CRO
+[19Dec2024 20:05:47.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nayitoo> facu putito
