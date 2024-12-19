@@ -1811,6 +1811,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-18 00:53:43 +0000",
+      "minecraft:blaze": "2024-12-19 18:35:14 +0000",
       "minecraft:skeleton": "2024-12-18 00:00:01 +0000",
       "minecraft:ghast": "2024-12-19 01:32:11 +0000",
       "minecraft:vindicator": "2024-12-18 00:31:36 +0000",
@@ -2817,6 +2818,7 @@
   },
   "too_many_bows:master_bow_collector": {
     "criteria": {
+      "spectral_whisper": "2024-12-19 18:35:22 +0000",
       "emerald_sage_bow": "2024-12-18 01:58:23 +0000",
       "vitality_weaver": "2024-12-19 17:55:35 +0000"
     },
@@ -5148,6 +5150,7 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "canopy_planks": "2024-12-19 18:41:53 +0000",
       "canopy_sapling": "2024-12-19 03:53:15 +0000",
       "canopy_log": "2024-12-19 03:53:15 +0000"
     },
@@ -5381,9 +5384,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/canopy_slab": {
+    "criteria": {
+      "has_item": "2024-12-19 18:41:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2024-12-19 17:51:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/canopy_sign": {
+    "criteria": {
+      "has_item": "2024-12-19 18:41:53 +0000"
     },
     "done": true
   },
@@ -5393,9 +5408,27 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/canopy_fence": {
+    "criteria": {
+      "has_item": "2024-12-19 18:41:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/canopy_gate": {
+    "criteria": {
+      "has_item": "2024-12-19 18:41:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2024-12-19 17:50:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/canopy_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-19 18:41:53 +0000"
     },
     "done": true
   },
@@ -5405,9 +5438,27 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/canopy_stairs": {
+    "criteria": {
+      "has_item": "2024-12-19 18:41:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_treasure": "2024-12-19 17:55:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/canopy_door": {
+    "criteria": {
+      "has_item": "2024-12-19 18:41:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/canopy_chest": {
+    "criteria": {
+      "has_item": "2024-12-19 18:41:53 +0000"
     },
     "done": true
   },
@@ -5417,15 +5468,39 @@
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/wood/canopy_trapdoor": {
+    "criteria": {
+      "has_item": "2024-12-19 18:41:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/canopy_button": {
+    "criteria": {
+      "has_item": "2024-12-19 18:41:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2024-12-19 17:53:02 +0000"
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/wood/canopy_plate": {
+    "criteria": {
+      "has_item": "2024-12-19 18:41:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2024-12-19 17:51:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-19 18:34:54 +0000"
     },
     "done": true
   },
