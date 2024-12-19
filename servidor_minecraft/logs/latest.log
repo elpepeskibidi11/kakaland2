@@ -670,3 +670,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [19Dec2024 19:41:19.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi left the game
 [19Dec2024 19:47:45.144] [Worker-Main-102/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [19Dec2024 19:47:45.145] [Worker-Main-102/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 19:56:07.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nayitoo has completed the challenge [It Spreads]
+[19Dec2024 20:00:10.133] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTata_ lost connection: Disconnected
+[19Dec2024 20:00:10.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTata_ left the game
