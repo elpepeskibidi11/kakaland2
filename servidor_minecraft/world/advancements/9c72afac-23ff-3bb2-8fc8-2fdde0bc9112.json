@@ -1886,6 +1886,7 @@
       "minecraft:slime": "2024-12-18 17:51:08 +0000",
       "minecraft:witch": "2024-12-18 17:39:04 +0000",
       "minecraft:cave_spider": "2024-12-18 17:33:18 +0000",
+      "minecraft:enderman": "2024-12-19 18:16:28 +0000",
       "minecraft:zombie": "2024-12-18 02:10:55 +0000",
       "minecraft:zombie_villager": "2024-12-18 17:30:00 +0000"
     },
@@ -3604,6 +3605,12 @@
     },
     "done": true
   },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_pearl": "2024-12-19 18:16:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-19 18:04:24 +0000"
@@ -3631,6 +3638,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-19 18:04:24 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/scholar_necklace": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-19 18:16:30 +0000"
     },
     "done": true
   },

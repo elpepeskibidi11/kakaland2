@@ -611,3 +611,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [19Dec2024 18:09:21.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> ok
 [19Dec2024 18:09:33.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <9zcoloskibidi> cualwuier cosa q neceistes avisa bro
 [19Dec2024 18:16:18.758] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/81492, l='ServerLevel[world]', x=7746.70, y=81.00, z=3541.02] died, message: 'Unemployed was slain by Zombie'
+[19Dec2024 18:22:11.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi was shot by Skeleton
+[19Dec2024 18:22:11.823] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 9zcoloskibidi lost connection: Disconnected
+[19Dec2024 18:22:11.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi left the game
+[19Dec2024 18:22:11.912] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Dec2024 18:26:55.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> t
+[19Dec2024 18:27:57.622] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 9zcoloskibidi[/127.213.240.60:52651] logged in with entity id 92354 at (7942.090837717785, -20.0, 3713.6305972017017)
+[19Dec2024 18:27:57.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi joined the game
+[19Dec2024 18:27:57.635] [Server thread/INFO] [Jade/]: Syncing config to 9zcoloskibidi (9c72afac-23ff-3bb2-8fc8-2fdde0bc9112)
