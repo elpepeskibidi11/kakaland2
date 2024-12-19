@@ -664,3 +664,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [19Dec2024 19:36:39.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nayitoo joined the game
 [19Dec2024 19:36:39.205] [Server thread/INFO] [Jade/]: Syncing config to Nayitoo (5c3d2dbf-c1e2-33dc-8254-1ae2b9d6529a)
 [19Dec2024 19:39:04.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 9zcoloskibidi moved too quickly! 126.71251537736225,115.0,-91.565731852927
+[19Dec2024 19:40:25.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTata_ has made the advancement [Gucci backpack]
+[19Dec2024 19:41:07.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 9zcoloskibidi moved too quickly! 7.259673942183326,-13.0,-6.352076720289915
+[19Dec2024 19:41:19.227] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 9zcoloskibidi lost connection: Disconnected
+[19Dec2024 19:41:19.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi left the game
+[19Dec2024 19:47:45.144] [Worker-Main-102/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 19:47:45.145] [Worker-Main-102/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:

@@ -26,6 +26,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-19 19:35:41 +0000",
+      "minecraft:old_growth_pine_taiga": "2024-12-19 19:44:13 +0000",
       "minecraft:taiga": "2024-12-18 00:30:31 +0000",
       "minecraft:deep_ocean": "2024-12-18 20:07:38 +0000",
       "minecraft:eroded_badlands": "2024-12-18 00:18:37 +0000",
@@ -3169,6 +3170,12 @@
     },
     "done": true
   },
+  "packedup:silver_or_gold_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-19 19:40:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall": {
     "criteria": {
       "has_polished_deepslate": "2024-12-19 19:16:39 +0000"
@@ -3214,6 +3221,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-19 19:16:39 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/diamond_from_gold": {
+    "criteria": {
+      "recipe_condition": "2024-12-19 19:40:25 +0000"
     },
     "done": true
   },
