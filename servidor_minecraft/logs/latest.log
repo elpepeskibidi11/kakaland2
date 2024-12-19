@@ -530,3 +530,43 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [19Dec2024 17:11:13.401] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [19Dec2024 17:11:13.418] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [19Dec2024 17:11:48.921] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-988, y=52, z=4123}
+[19Dec2024 17:18:05.464] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 9zcoloskibidi[/127.213.240.60:39151] logged in with entity id 21363 at (7980.035686237437, 112.0, 3587.0381418464626)
+[19Dec2024 17:18:05.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi joined the game
+[19Dec2024 17:18:05.496] [Server thread/INFO] [Jade/]: Syncing config to 9zcoloskibidi (9c72afac-23ff-3bb2-8fc8-2fdde0bc9112)
+[19Dec2024 17:18:24.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElTata_> ah ahora veo el ping
+[19Dec2024 17:18:38.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> no es el ping
+[19Dec2024 17:18:42.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> es el contador de muertes
+[19Dec2024 17:18:55.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElTata_> bueno mejor
+[19Dec2024 17:22:08.913] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 17:22:08.914] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 17:22:22.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [What a Deal!]
+[19Dec2024 17:22:41.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> mending a 12 es un golaso no?
+[19Dec2024 17:22:47.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElTata_> si
+[19Dec2024 17:22:57.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElTata_> lo normal es 18 20
+[19Dec2024 17:24:27.931] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3352, y=36, z=3911}
+[19Dec2024 17:25:08.196] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 17:25:11.207] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 17:25:11.208] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Dec2024 17:26:10.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElTata_> voy a configurar la impresora
+[19Dec2024 17:26:13.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElTata_> ya vengo
+[19Dec2024 17:26:14.607] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTata_ lost connection: Disconnected
+[19Dec2024 17:26:14.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTata_ left the game
+[19Dec2024 17:26:19.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> bro
+[19Dec2024 17:26:22.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> menos mal q aviso
+[19Dec2024 17:26:25.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> o explotaba el mundo
+[19Dec2024 17:26:38.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <9zcoloskibidi> bro
+[19Dec2024 17:26:49.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <9zcoloskibidi> mi gato se llama josh el tuyo?
+[19Dec2024 17:26:55.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> no tengo
+[19Dec2024 17:27:00.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> bro
+[19Dec2024 17:27:02.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> tengo una iguana
+[19Dec2024 17:27:05.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> luck conors
+[19Dec2024 17:27:07.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <9zcoloskibidi> bro
+[19Dec2024 17:27:19.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <9zcoloskibidi> ayer fue dia de espalda
+[19Dec2024 17:27:33.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <9zcoloskibidi> hoy es dia de romperle la boca a la trola de mi vieja
+[19Dec2024 17:27:37.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> lit
+[19Dec2024 17:27:39.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> samee
+[19Dec2024 17:28:11.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <9zcoloskibidi> bro estoy yendo lamentablemente estoy como en 8000 asi q estoy tardando
+[19Dec2024 17:28:18.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> oka
+[19Dec2024 17:35:25.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> cuando llegues manda msj
+[19Dec2024 17:35:26.866] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathan1122 lost connection: Disconnected
+[19Dec2024 17:35:26.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 left the game
