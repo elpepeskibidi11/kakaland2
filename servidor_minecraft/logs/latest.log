@@ -688,3 +688,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [20Dec2024 22:46:22.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nayitoo> perdon
 [20Dec2024 22:46:32.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nayitoo> toy en el twilight
 [20Dec2024 22:46:36.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nayitoo> godeta
+[20Dec2024 23:04:50.993] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7434, y=77, z=132983} BlockPos{x=-7434, y=77, z=132984}
+[20Dec2024 23:04:51.037] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7435, y=77, z=132984} BlockPos{x=-7434, y=77, z=132984}
+[20Dec2024 23:04:51.092] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7436, y=77, z=132985} BlockPos{x=-7434, y=77, z=132984}
+[20Dec2024 23:04:51.137] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7435, y=77, z=132983} BlockPos{x=-7434, y=77, z=132984}
+[20Dec2024 23:04:51.195] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7434, y=78, z=132983} BlockPos{x=-7434, y=77, z=132984}
+[20Dec2024 23:04:51.239] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7434, y=77, z=132982} BlockPos{x=-7434, y=77, z=132984}
+[20Dec2024 23:04:51.398] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7434, y=76, z=132982} BlockPos{x=-7435, y=77, z=132982}
+[20Dec2024 23:08:08.981] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2212ms or 44 ticks behind
