@@ -5982,6 +5982,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-20 00:36:56 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/wood/aurora_slab_slab": {
     "criteria": {
       "has_item": "2024-12-20 00:26:23 +0000"
