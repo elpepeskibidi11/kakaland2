@@ -671,3 +671,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [20Dec2024 22:17:19.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nayitoo has reached the goal [The largest of them all]
 [20Dec2024 22:18:19.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8600ms or 172 ticks behind
 [20Dec2024 22:19:07.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nayitoo has made the advancement [The Silence of the Forest]
+[20Dec2024 22:20:46.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nayitoo moved wrongly!
+[20Dec2024 22:20:57.588] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nayitoo moved wrongly!
+[20Dec2024 22:21:48.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nayitoo has reached the goal [Time To Even The Scales]
+[20Dec2024 22:27:48.832] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nayitoo lost connection: Disconnected
+[20Dec2024 22:27:48.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nayitoo left the game
+[20Dec2024 22:29:03.245] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nayitoo[/127.211.51.10:56813] logged in with entity id 163093 at (-7361.953263648658, -2.0, 132861.30000001192)
+[20Dec2024 22:29:03.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nayitoo joined the game
+[20Dec2024 22:29:03.322] [Server thread/INFO] [Jade/]: Syncing config to Nayitoo (5c3d2dbf-c1e2-33dc-8254-1ae2b9d6529a)
