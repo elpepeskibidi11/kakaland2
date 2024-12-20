@@ -30,3 +30,10 @@
 [20Dec2024 00:37:36.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> -3428 -3465
 [20Dec2024 00:42:03.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has completed the challenge [Rude Awakening]
 [20Dec2024 00:42:15.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> me encontre otro de camino ahi
+[20Dec2024 00:44:43.870] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/84858, l='ServerLevel[world]', x=-3656.56, y=109.00, z=-3173.70] died, message: 'Unemployed was slain by joaco_tomsk'
+[20Dec2024 00:44:56.673] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/85035, l='ServerLevel[world]', x=-3646.33, y=108.94, z=-3162.41] died, message: 'Farmer was smitten by joaco_tomsk'
+[20Dec2024 00:45:23.700] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/85034, l='ServerLevel[world]', x=-3655.58, y=113.00, z=-3180.85] died, message: 'Unemployed was slain by joaco_tomsk'
+[20Dec2024 00:46:36.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaco_tomsk moved wrongly!
+[20Dec2024 00:46:59.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> avisame cuando llegues
+[20Dec2024 00:47:35.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> tranqui, yo estoy peleando contra otro jefe ahora
+[20Dec2024 00:47:41.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> a bueno
