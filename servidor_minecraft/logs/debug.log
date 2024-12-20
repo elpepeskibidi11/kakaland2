@@ -13394,3 +13394,44 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [20Dec2024 21:54:32.212] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/126977, l='ServerLevel[world]', x=-7732.27, y=72.00, z=-5254.49] was struck by lightning LightningBolt['Lightning Bolt'/132437, l='ServerLevel[world]', x=-7731.43, y=72.04, z=-5253.44].
 [20Dec2024 21:57:12.142] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathan1122 lost connection: Disconnected
 [20Dec2024 21:57:12.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 left the game
+[20Dec2024 21:59:14.523] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 21:59:14.530] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 22:02:23.669] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/128913, l='ServerLevel[world]', x=-1243.94, y=81.00, z=16662.12] died, message: 'Unemployed was slain by Nayitoo'
+[20Dec2024 22:04:13.087] [Server thread/DEBUG] [twilightforest/]: Did not find existing portal, making a new one.
+[20Dec2024 22:04:13.103] [Server thread/DEBUG] [twilightforest/]: Portal destination looks unsafe, rerouting!
+[20Dec2024 22:04:13.110] [Server thread/DEBUG] [twilightforest/]: Safely rerouted!
+[20Dec2024 22:04:17.166] [Server thread/DEBUG] [twilightforest/]: Did not find ideal portal spot, shooting for okay one for Summoned Vex
+[20Dec2024 22:04:17.174] [Server thread/DEBUG] [twilightforest/]: Found okay portal spot for Summoned Vex at BlockPos{x=17809, y=33, z=-10081}
+[20Dec2024 22:04:17.471] [Server thread/DEBUG] [twilightforest/]: Caching Dest Portal Blocks to BlockPos{x=2234, y=93, z=-1264}
+[20Dec2024 22:04:17.479] [Server thread/DEBUG] [twilightforest/]: Caching Src Portal Blocks to BlockPos{x=17810, y=33, z=-10081}
+[20Dec2024 22:04:17.479] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=2233, y=93, z=-1264}
+[20Dec2024 22:04:17.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nayitoo moved too quickly! 6.399124223056333,2.464159374955443,-8.037156812933972
+[20Dec2024 22:04:17.532] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4464ms or 89 ticks behind
+[20Dec2024 22:04:19.040] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 22:04:19.050] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 22:05:30.493] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaco_tomsk lost connection: Disconnected
+[20Dec2024 22:05:30.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk left the game
+[20Dec2024 22:09:18.945] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 22:09:18.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 22:14:18.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 22:14:18.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 22:15:58.668] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/140210, l='ServerLevel[world]', x=-859.64, y=113.49, z=16630.58], dimensionLocationPath overworld
+[20Dec2024 22:15:58.668] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/140210, l='ServerLevel[world]', x=-859.64, y=113.49, z=16630.58] in list []
+[20Dec2024 22:15:59.168] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/140210, l='ServerLevel[world]', x=-860.07, y=113.25, z=16630.57, removed=DISCARDED]
+[20Dec2024 22:17:12.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nayitoo has made the advancement [Gotta have that bling]
+[20Dec2024 22:17:19.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nayitoo has reached the goal [The largest of them all]
+[20Dec2024 22:17:27.818] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/140485, l='ServerLevel[world]', x=-864.21, y=114.32, z=16623.18], dimensionLocationPath overworld
+[20Dec2024 22:17:27.818] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/140485, l='ServerLevel[world]', x=-864.21, y=114.32, z=16623.18] in list []
+[20Dec2024 22:18:11.293] [Server thread/DEBUG] [twilightforest/]: Did not find existing portal, making a new one.
+[20Dec2024 22:18:11.294] [Server thread/DEBUG] [twilightforest/]: Portal destination looks unsafe, rerouting!
+[20Dec2024 22:18:11.296] [Server thread/DEBUG] [twilightforest/]: Safely rerouted!
+[20Dec2024 22:18:17.918] [Server thread/DEBUG] [twilightforest/]: Found ideal portal spot for Nayitoo at BlockPos{x=-6989, y=6, z=132973}
+[20Dec2024 22:18:18.584] [Server thread/DEBUG] [twilightforest/]: Caching Dest Portal Blocks to BlockPos{x=-861, y=112, z=16631}
+[20Dec2024 22:18:18.588] [Server thread/DEBUG] [twilightforest/]: Caching Src Portal Blocks to BlockPos{x=-6988, y=6, z=132973}
+[20Dec2024 22:18:18.588] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=-860, y=112, z=16631}
+[20Dec2024 22:18:18.588] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=-861, y=112, z=16631}
+[20Dec2024 22:18:18.588] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=-860, y=112, z=16630}
+[20Dec2024 22:18:18.588] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=-861, y=112, z=16630}
+[20Dec2024 22:18:19.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8600ms or 172 ticks behind
+[20Dec2024 22:18:20.031] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/140485, l='ServerLevel[world]', x=-861.51, y=113.00, z=16620.53, removed=UNLOADED_TO_CHUNK]
+[20Dec2024 22:19:07.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nayitoo has made the advancement [The Silence of the Forest]

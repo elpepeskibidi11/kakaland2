@@ -662,3 +662,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [20Dec2024 21:54:32.212] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/126977, l='ServerLevel[world]', x=-7732.27, y=72.00, z=-5254.49] was struck by lightning LightningBolt['Lightning Bolt'/132437, l='ServerLevel[world]', x=-7731.43, y=72.04, z=-5253.44].
 [20Dec2024 21:57:12.142] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathan1122 lost connection: Disconnected
 [20Dec2024 21:57:12.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 left the game
+[20Dec2024 22:02:23.669] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/128913, l='ServerLevel[world]', x=-1243.94, y=81.00, z=16662.12] died, message: 'Unemployed was slain by Nayitoo'
+[20Dec2024 22:04:17.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nayitoo moved too quickly! 6.399124223056333,2.464159374955443,-8.037156812933972
+[20Dec2024 22:04:17.532] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4464ms or 89 ticks behind
+[20Dec2024 22:05:30.493] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaco_tomsk lost connection: Disconnected
+[20Dec2024 22:05:30.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk left the game
+[20Dec2024 22:17:12.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nayitoo has made the advancement [Gotta have that bling]
+[20Dec2024 22:17:19.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nayitoo has reached the goal [The largest of them all]
+[20Dec2024 22:18:19.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8600ms or 172 ticks behind
+[20Dec2024 22:19:07.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nayitoo has made the advancement [The Silence of the Forest]

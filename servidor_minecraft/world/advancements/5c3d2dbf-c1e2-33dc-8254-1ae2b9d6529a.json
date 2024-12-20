@@ -1388,6 +1388,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-20 21:58:50 +0000",
       "minecraft:skeleton": "2024-12-18 18:52:17 +0000",
       "minecraft:ghast": "2024-12-20 21:08:48 +0000",
       "minecraft:vindicator": "2024-12-20 21:53:41 +0000",
@@ -3723,6 +3724,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-12-20 21:59:31 +0000"
+    },
+    "done": true
+  },
   "too_many_bows:necro_skull": {
     "criteria": {
       "get_necro_skull": "2024-12-20 21:15:41 +0000"
@@ -3735,9 +3742,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-20 21:58:00 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/food/rabbit_stew_from_brown_mushroom_and_coconut_husk": {
     "criteria": {
       "has_cooked_rabbit": "2024-12-20 21:05:10 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2024-12-20 21:58:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-20 21:58:00 +0000"
     },
     "done": true
   },
@@ -3768,6 +3793,12 @@
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-20 21:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-20 21:58:00 +0000"
     },
     "done": true
   },
@@ -3819,6 +3850,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-20 21:58:00 +0000"
+    },
+    "done": true
+  },
   "too_many_bows:root": {
     "criteria": {
       "has_any_bow": "2024-12-20 21:16:29 +0000"
@@ -3834,6 +3871,30 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2024-12-20 21:47:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-20 21:58:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-20 21:58:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-20 21:58:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-20 21:58:00 +0000"
     },
     "done": true
   },
@@ -3942,6 +4003,12 @@
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2024-12-20 21:05:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-20 21:58:00 +0000"
     },
     "done": true
   },
