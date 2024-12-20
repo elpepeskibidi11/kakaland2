@@ -93,3 +93,21 @@
 [20Dec2024 04:39:29.694] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jonathan1122[/127.169.8.59:52349] logged in with entity id 165456 at (2245.9404971638724, 94.0, -1258.6106611302228)
 [20Dec2024 04:39:29.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 joined the game
 [20Dec2024 04:39:29.719] [Server thread/INFO] [Jade/]: Syncing config to jonathan1122 (a07659a6-8778-3286-b26a-0e06bd88dc78)
+[20Dec2024 04:46:41.872] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
+[20Dec2024 04:47:03.380] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaco_tomsk lost connection: Disconnected
+[20Dec2024 04:47:03.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk left the game
+[20Dec2024 04:47:03.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathan1122 moved too quickly! -10.092484007890107,1.4199999868869781,-0.9247740374637488
+[20Dec2024 04:47:03.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 9zcoloskibidi moved too quickly! 9.547481831407936,2.829425017120755,-1.1457174797614016
+[20Dec2024 04:47:03.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> t
+[20Dec2024 04:47:06.409] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaco_tomsk[/127.79.179.172:36693] logged in with entity id 174992 at (-9483.281722806414, 52.2180237860667, -3169.956076129038)
+[20Dec2024 04:47:06.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk joined the game
+[20Dec2024 04:47:06.431] [Server thread/INFO] [Jade/]: Syncing config to joaco_tomsk (a076dc84-50bb-3bf4-832f-299af23013a2)
+[20Dec2024 04:47:10.609] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13759ms or 275 ticks behind
+[20Dec2024 04:50:39.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi has made the advancement [A Terrible Fortress]
+[20Dec2024 04:52:13.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [Arghh, Where be Me Ship?]
+[20Dec2024 04:54:02.751] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/182776, l='ServerLevel[world]', x=-10422.50, y=75.00, z=-3429.50]
+[20Dec2024 04:56:16.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi has made the advancement [Into Fire]
+[20Dec2024 04:57:39.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi has made the advancement [Abilities -Trick Dodge-          ]
+[20Dec2024 04:59:40.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 9zcoloskibidi moved wrongly!
+[20Dec2024 05:04:25.307] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/191420, l='ServerLevel[world]', x=-10294.31, y=111.52, z=-4702.66] died, message: 'Nitwit's atoms were crushed in joaco_tomsk's black hole'
+[20Dec2024 05:04:32.310] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/191481, l='ServerLevel[world]', x=-10287.70, y=112.91, z=-4698.33] died, message: 'Unemployed's atoms were crushed in joaco_tomsk's black hole'
