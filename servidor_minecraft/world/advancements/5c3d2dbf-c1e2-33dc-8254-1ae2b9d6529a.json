@@ -33,13 +33,16 @@
       "minecraft:river": "2024-12-18 18:12:15 +0000",
       "minecraft:lukewarm_ocean": "2024-12-18 18:24:25 +0000",
       "minecraft:stony_shore": "2024-12-19 01:18:53 +0000",
+      "minecraft:snowy_plains": "2024-12-20 21:43:27 +0000",
       "minecraft:dripstone_caves": "2024-12-19 01:31:58 +0000",
       "minecraft:grove": "2024-12-18 19:28:55 +0000",
       "minecraft:jagged_peaks": "2024-12-18 19:31:39 +0000",
       "minecraft:forest": "2024-12-18 18:20:33 +0000",
+      "minecraft:frozen_ocean": "2024-12-20 21:44:27 +0000",
       "minecraft:desert": "2024-12-18 17:48:05 +0000",
       "minecraft:jungle": "2024-12-18 18:20:32 +0000",
       "minecraft:ocean": "2024-12-19 01:11:45 +0000",
+      "minecraft:snowy_beach": "2024-12-20 21:44:22 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-19 01:06:54 +0000",
       "minecraft:flower_forest": "2024-12-19 01:24:59 +0000",
       "minecraft:frozen_peaks": "2024-12-19 01:32:44 +0000",
@@ -709,6 +712,8 @@
       "mutton": "2024-12-18 23:22:51 +0000",
       "bread": "2024-12-18 18:18:10 +0000",
       "rotten_flesh": "2024-12-19 00:45:46 +0000",
+      "golden_carrot": "2024-12-20 21:30:15 +0000",
+      "cooked_rabbit": "2024-12-20 21:14:22 +0000",
       "cooked_chicken": "2024-12-19 00:35:58 +0000",
       "rabbit_stew": "2024-12-19 01:30:06 +0000",
       "carrot": "2024-12-19 01:11:59 +0000"
@@ -1384,9 +1389,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-18 18:52:17 +0000",
+      "minecraft:ghast": "2024-12-20 21:08:48 +0000",
+      "minecraft:vindicator": "2024-12-20 21:53:41 +0000",
       "minecraft:magma_cube": "2024-12-19 00:41:48 +0000",
       "minecraft:spider": "2024-12-18 18:54:20 +0000",
+      "minecraft:piglin_brute": "2024-12-20 21:13:39 +0000",
+      "minecraft:zombified_piglin": "2024-12-20 21:27:05 +0000",
       "minecraft:husk": "2024-12-20 20:07:42 +0000",
+      "minecraft:piglin": "2024-12-20 21:13:32 +0000",
       "minecraft:enderman": "2024-12-19 03:39:09 +0000",
       "minecraft:zombie": "2024-12-18 18:27:49 +0000"
     },
@@ -2854,6 +2864,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-20 21:13:23 +0000",
       "minecraft:nether_wastes": "2024-12-18 22:39:56 +0000",
       "minecraft:basalt_deltas": "2024-12-18 22:45:03 +0000",
       "minecraft:warped_forest": "2024-12-19 00:50:17 +0000"
@@ -3685,6 +3696,258 @@
   "endrem:main/cold_eye": {
     "criteria": {
       "cold_eye": "2024-12-20 20:20:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-20 21:13:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-20 21:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-20 21:21:52 +0000"
+    },
+    "done": true
+  },
+  "packedup:silver_or_gold_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-20 21:51:07 +0000"
+    },
+    "done": true
+  },
+  "too_many_bows:necro_skull": {
+    "criteria": {
+      "get_necro_skull": "2024-12-20 21:15:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-20 21:13:14 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/food/rabbit_stew_from_brown_mushroom_and_coconut_husk": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-20 21:05:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-12-20 21:15:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-20 21:16:11 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:all_weapons": {
+    "criteria": {
+      "guts": "2024-12-20 21:29:45 +0000"
+    },
+    "done": false
+  },
+  "ecologics:recipes/food/rabbit_stew_from_red_mushroom_and_coconut_husk": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-20 21:05:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-20 21:13:14 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/guts_sword": {
+    "criteria": {
+      "has_item": "2024-12-20 21:13:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-20 21:16:11 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/gold_from_iron": {
+    "criteria": {
+      "recipe_condition": "2024-12-20 21:50:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-20 21:52:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-20 21:16:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-20 21:13:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/chungus_monolith": {
+    "criteria": {
+      "has_item": "2024-12-20 21:13:50 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/healing_quiver": {
+    "criteria": {
+      "has_ghast_tear": "2024-12-20 21:08:51 +0000"
+    },
+    "done": true
+  },
+  "too_many_bows:root": {
+    "criteria": {
+      "has_any_bow": "2024-12-20 21:16:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-20 21:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-12-20 21:47:44 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/diamond_from_gold": {
+    "criteria": {
+      "recipe_condition": "2024-12-20 21:51:07 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/healer_necklace": {
+    "criteria": {
+      "has_ghast_tear": "2024-12-20 21:08:51 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:heap_of_iron": {
+    "criteria": {
+      "soulsweapons:guts_sword": "2024-12-20 21:29:45 +0000"
+    },
+    "done": true
+  },
+  "packedup:iron_or_copper_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-20 21:50:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-20 21:05:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2024-12-20 21:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-12-20 21:13:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-12-20 21:13:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-20 21:13:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-20 21:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-20 21:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-20 21:16:50 +0000"
+    },
+    "done": true
+  },
+  "too_many_bows:master_bow_collector": {
+    "criteria": {
+      "scatter_bow": "2024-12-20 21:16:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2024-12-20 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-20 21:52:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-20 21:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-20 21:12:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-20 21:05:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-20 21:13:57 +0000"
     },
     "done": true
   },

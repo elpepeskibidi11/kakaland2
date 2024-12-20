@@ -623,3 +623,42 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [20Dec2024 21:01:05.232] [Server thread/INFO] [Jade/]: Syncing config to Nayitoo (5c3d2dbf-c1e2-33dc-8254-1ae2b9d6529a)
 [20Dec2024 21:03:23.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> t
 [20Dec2024 21:05:38.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> t
+[20Dec2024 21:07:31.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Fallen Sorcerer]
+[20Dec2024 21:08:48.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nayitoo has completed the challenge [Return to Sender]
+[20Dec2024 21:09:29.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has completed the challenge [Hero of the Village]
+[20Dec2024 21:09:29.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has completed the challenge [Hero of the Village]
+[20Dec2024 21:12:56.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nayitoo has made the advancement [Those Were the Days]
+[20Dec2024 21:13:47.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nayitoo has made the advancement [War Pigs]
+[20Dec2024 21:13:55.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nayitoo has made the advancement [Who is Cutting Onions?]
+[20Dec2024 21:15:41.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nayitoo has made the advancement [The Necro Skull]
+[20Dec2024 21:16:11.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nayitoo has made the advancement [Hidden in the Depths]
+[20Dec2024 21:16:29.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nayitoo has made the advancement [Too Many Bows]
+[20Dec2024 21:25:14.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaco_tomsk moved too quickly! 14.726039686434433,-1.8376365381159019,11.18128468970076
+[20Dec2024 21:26:02.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaco_tomsk moved too quickly! -10.539789866910269,-2.7006598429814943,14.28152357495236
+[20Dec2024 21:26:47.622] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/105532, l='ServerLevel[world]', x=1942.50, y=72.00, z=-31.50]
+[20Dec2024 21:26:49.571] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/105567, l='ServerLevel[world]', x=1869.50, y=73.00, z=-52.50]
+[20Dec2024 21:27:56.311] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/107076, l='ServerLevel[world]', x=1926.50, y=74.00, z=97.50]
+[20Dec2024 21:28:15.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaco_tomsk moved too quickly! 14.53946601407415,-1.722783637013265,-10.063592041005649
+[20Dec2024 21:29:45.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nayitoo has reached the goal [My Brother]
+[20Dec2024 21:35:57.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nayitoo> glass
+[20Dec2024 21:36:37.000] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 pufferfish because there is no smelting recipe
+[20Dec2024 21:41:04.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathan1122 moved too quickly! -3.184743333193751,-3.6337217873482786,-8.974640240544204
+[20Dec2024 21:43:02.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nayitoo> asd
+[20Dec2024 21:43:27.465] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4646ms or 92 ticks behind
+[20Dec2024 21:43:54.730] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2245, y=94, z=-1259} BlockPos{x=2243, y=93, z=-1258}
+[20Dec2024 21:47:20.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nayitoo> asd
+[20Dec2024 21:47:44.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nayitoo has made the advancement [Ol' Betsy]
+[20Dec2024 21:49:11.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonathan1122: Played sound cataclysm:axe_swing to 3 players]
+[20Dec2024 21:49:43.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jonathan1122: Played sound cataclysm:harbinger_music to 3 players]
+[20Dec2024 21:50:47.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nayitoo has made the advancement [Bigger is better]
+[20Dec2024 21:51:07.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nayitoo has made the advancement [Gucci backpack]
+[20Dec2024 21:51:09.591] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/126967, l='ServerLevel[world]', x=-7757.31, y=71.42, z=-5251.11] was struck by lightning LightningBolt['Lightning Bolt'/127293, l='ServerLevel[world]', x=-7757.64, y=71.00, z=-5251.07].
+[20Dec2024 21:51:32.436] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/127003, l='ServerLevel[world]', x=-7770.70, y=65.24, z=-5291.83] was struck by lightning LightningBolt['Lightning Bolt'/127726, l='ServerLevel[world]', x=-7770.46, y=64.88, z=-5291.53].
+[20Dec2024 21:51:52.182] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/127004, l='ServerLevel[world]', x=-7763.63, y=63.36, z=-5311.90] was struck by lightning LightningBolt['Lightning Bolt'/128326, l='ServerLevel[world]', x=-7763.66, y=63.00, z=-5311.50].
+[20Dec2024 21:52:14.070] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/127030, l='ServerLevel[world]', x=-7745.30, y=65.24, z=-5306.55] was struck by lightning LightningBolt['Lightning Bolt'/129089, l='ServerLevel[world]', x=-7745.50, y=64.88, z=-5306.48].
+[20Dec2024 21:52:25.201] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/126978, l='ServerLevel[world]', x=-7742.34, y=64.36, z=-5300.70] was struck by lightning LightningBolt['Lightning Bolt'/129415, l='ServerLevel[world]', x=-7742.67, y=64.00, z=-5300.53].
+[20Dec2024 21:53:39.515] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/126984, l='ServerLevel[world]', x=-7789.20, y=63.56, z=-5288.06] was struck by lightning LightningBolt['Lightning Bolt'/131043, l='ServerLevel[world]', x=-7788.49, y=63.02, z=-5288.85].
+[20Dec2024 21:54:18.029] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/127005, l='ServerLevel[world]', x=-7721.35, y=72.00, z=-5255.41] was struck by lightning LightningBolt['Lightning Bolt'/132062, l='ServerLevel[world]', x=-7720.50, y=72.03, z=-5254.63].
+[20Dec2024 21:54:32.212] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/126977, l='ServerLevel[world]', x=-7732.27, y=72.00, z=-5254.49] was struck by lightning LightningBolt['Lightning Bolt'/132437, l='ServerLevel[world]', x=-7731.43, y=72.04, z=-5253.44].
+[20Dec2024 21:57:12.142] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathan1122 lost connection: Disconnected
+[20Dec2024 21:57:12.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 left the game
