@@ -2971,7 +2971,9 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:soul_sand_valley": "2024-12-18 18:56:05 +0000",
-      "minecraft:basalt_deltas": "2024-12-19 04:21:06 +0000"
+      "minecraft:nether_wastes": "2024-12-20 01:59:55 +0000",
+      "minecraft:basalt_deltas": "2024-12-19 04:21:06 +0000",
+      "minecraft:warped_forest": "2024-12-20 02:07:14 +0000"
     },
     "done": false
   },
@@ -3892,6 +3894,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2024-12-19 19:23:37 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/food/mushroom_stew_from_coconut_husk": {
+    "criteria": {
+      "has_bowl": "2024-12-20 01:57:29 +0000"
     },
     "done": true
   },

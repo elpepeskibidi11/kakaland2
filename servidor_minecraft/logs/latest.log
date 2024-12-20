@@ -55,3 +55,15 @@
 [20Dec2024 01:02:34.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> ah verg
 [20Dec2024 01:03:08.157] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathan1122 lost connection: Disconnected
 [20Dec2024 01:03:08.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 left the game
+[20Dec2024 01:47:15.872] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 9zcoloskibidi[/127.213.240.60:40533] logged in with entity id 102428 at (7271.650637045724, 121.0, 3545.082549992006)
+[20Dec2024 01:47:15.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi joined the game
+[20Dec2024 01:47:15.891] [Server thread/INFO] [Jade/]: Syncing config to 9zcoloskibidi (9c72afac-23ff-3bb2-8fc8-2fdde0bc9112)
+[20Dec2024 01:51:24.051] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/104327, l='ServerLevel[world]', x=7163.50, y=74.00, z=3140.50]
+[20Dec2024 01:52:08.752] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/104541, l='ServerLevel[world]', x=7162.50, y=74.00, z=3044.50]
+[20Dec2024 01:52:24.201] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/104585, l='ServerLevel[world]', x=7164.50, y=74.00, z=3141.50]
+[20Dec2024 01:53:18.708] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2408ms or 48 ticks behind
+[20Dec2024 01:53:36.451] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/105628, l='ServerLevel[world]', x=7162.50, y=74.00, z=3142.50]
+[20Dec2024 01:58:19.572] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2273ms or 45 ticks behind
+[20Dec2024 02:00:53.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi fell from a high place
+[20Dec2024 02:09:48.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi fell from a high place
+[20Dec2024 02:10:52.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] manco
