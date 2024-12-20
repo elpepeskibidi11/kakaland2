@@ -1829,8 +1829,10 @@
       "minecraft:pillager": "2024-12-18 03:21:25 +0000",
       "minecraft:skeleton": "2024-12-18 23:33:19 +0000",
       "minecraft:ravager": "2024-12-20 00:00:31 +0000",
+      "minecraft:ghast": "2024-12-20 03:55:53 +0000",
       "minecraft:vindicator": "2024-12-19 23:56:25 +0000",
       "minecraft:spider": "2024-12-19 05:41:12 +0000",
+      "minecraft:piglin_brute": "2024-12-20 04:03:01 +0000",
       "minecraft:creeper": "2024-12-18 23:31:58 +0000",
       "minecraft:evoker": "2024-12-20 00:05:56 +0000",
       "minecraft:piglin": "2024-12-20 03:44:29 +0000",
@@ -2864,7 +2866,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-12-20 03:41:50 +0000",
-      "minecraft:nether_wastes": "2024-12-20 03:42:24 +0000"
+      "minecraft:nether_wastes": "2024-12-20 03:42:24 +0000",
+      "minecraft:soul_sand_valley": "2024-12-20 03:55:31 +0000"
     },
     "done": false
   },
@@ -2955,6 +2958,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-20 03:33:39 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/chungus_monolith": {
+    "criteria": {
+      "has_item": "2024-12-20 04:03:38 +0000"
     },
     "done": true
   },
@@ -3102,6 +3111,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-12-20 04:03:15 +0000"
+    },
+    "done": true
+  },
   "endrem:main/root": {
     "criteria": {
       "corrupted_eye": "2024-12-19 23:36:23 +0000"
@@ -3138,6 +3153,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-20 04:02:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-20 03:33:39 +0000"
@@ -3147,6 +3168,12 @@
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2024-12-19 23:58:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-20 03:46:05 +0000"
     },
     "done": true
   },
