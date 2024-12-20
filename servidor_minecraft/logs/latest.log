@@ -540,3 +540,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [20Dec2024 15:11:20.585] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/30071, l='ServerLevel[world]', x=3678.50, y=74.00, z=-1600.50]
 [20Dec2024 15:11:30.737] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/30243, l='ServerLevel[world]', x=3600.50, y=73.00, z=-1629.50]
 [20Dec2024 15:12:32.285] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/31133, l='ServerLevel[world]', x=3404.50, y=78.00, z=-1723.50]
+[20Dec2024 15:18:55.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathan1122 moved too quickly! -8.88413860035348,4.249187078744683,-2.1436618762617172
+[20Dec2024 15:19:39.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTata_ was obliterated by a sonically-charged shriek
+[20Dec2024 15:20:32.001] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathan1122 lost connection: Disconnected
+[20Dec2024 15:20:32.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 left the game
+[20Dec2024 15:20:34.440] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTata_ lost connection: Disconnected
+[20Dec2024 15:20:34.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTata_ left the game
