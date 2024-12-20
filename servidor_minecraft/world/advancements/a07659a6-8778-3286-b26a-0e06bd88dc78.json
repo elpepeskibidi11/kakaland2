@@ -2832,6 +2832,7 @@
       "emerald_sage_bow": "2024-12-18 01:58:23 +0000",
       "sentinels_wrath": "2024-12-20 15:03:31 +0000",
       "scatter_bow": "2024-12-20 05:10:53 +0000",
+      "solar_bow": "2024-12-20 20:43:44 +0000",
       "vitality_weaver": "2024-12-19 17:55:35 +0000"
     },
     "done": false
@@ -6173,9 +6174,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
+  "endrem:main/cold_eye": {
     "criteria": {
-      "has_kelp": "2024-12-20 20:01:20 +0000"
+      "cold_eye": "2024-12-20 19:43:48 +0000"
     },
     "done": true
   },
@@ -6191,7 +6192,19 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-20 20:01:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-20 20:01:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2024-12-20 20:01:20 +0000"
     },
@@ -6209,12 +6222,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sponge": {
-    "criteria": {
-      "has_wet_sponge": "2024-12-20 20:09:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2024-12-20 20:02:20 +0000"
@@ -6227,25 +6234,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2024-12-20 20:01:20 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/evil_eye": {
-    "criteria": {
-      "evil_eye": "2024-12-20 20:20:17 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/cold_eye": {
-    "criteria": {
-      "cold_eye": "2024-12-20 19:43:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-20 20:02:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2024-12-20 20:02:20 +0000"
     },
@@ -6257,15 +6252,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod": {
+  "minecraft:recipes/building_blocks/sponge": {
     "criteria": {
-      "has_cod": "2024-12-20 20:02:20 +0000"
+      "has_wet_sponge": "2024-12-20 20:09:55 +0000"
     },
     "done": true
   },
   "endrem:main/lost_eye": {
     "criteria": {
       "lost_eye": "2024-12-20 20:19:44 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/evil_eye": {
+    "criteria": {
+      "evil_eye": "2024-12-20 20:20:17 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2024-12-20 20:43:45 +0000"
     },
     "done": true
   },

@@ -608,3 +608,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [20Dec2024 20:22:46.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nayitoo left the game
 [20Dec2024 20:23:57.090] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathan1122 lost connection: Disconnected
 [20Dec2024 20:23:57.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 left the game
+[20Dec2024 20:38:39.884] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jonathan1122[/127.169.8.59:58015] logged in with entity id 74377 at (2245.3493292317576, 94.0, -1262.6998060367541)
+[20Dec2024 20:38:39.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 joined the game
+[20Dec2024 20:38:39.934] [Server thread/INFO] [Jade/]: Syncing config to jonathan1122 (a07659a6-8778-3286-b26a-0e06bd88dc78)
+[20Dec2024 20:39:03.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaco_tomsk moved too quickly! -11.589208997207834,-3.1547416900621243,13.334351689484492
+[20Dec2024 20:39:03.556] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7338ms or 146 ticks behind
+[20Dec2024 20:41:26.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathan1122 moved wrongly!
+[20Dec2024 20:41:29.794] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-337, y=57, z=44} BlockPos{x=-335, y=56, z=44}
+[20Dec2024 20:41:30.443] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-339, y=57, z=44} BlockPos{x=-339, y=56, z=44}
+[20Dec2024 20:43:45.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Stare Into Despair]
