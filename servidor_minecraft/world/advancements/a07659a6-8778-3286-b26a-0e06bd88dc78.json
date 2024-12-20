@@ -28,6 +28,7 @@
       "minecraft:snowy_slopes": "2024-12-18 01:23:13 +0000",
       "minecraft:old_growth_pine_taiga": "2024-12-18 01:27:08 +0000",
       "minecraft:taiga": "2024-12-18 01:07:20 +0000",
+      "minecraft:deep_ocean": "2024-12-20 19:59:46 +0000",
       "minecraft:frozen_river": "2024-12-18 02:41:21 +0000",
       "minecraft:sunflower_plains": "2024-12-18 17:09:29 +0000",
       "minecraft:birch_forest": "2024-12-18 00:30:12 +0000",
@@ -1814,7 +1815,9 @@
       "minecraft:pillager": "2024-12-18 00:53:43 +0000",
       "minecraft:blaze": "2024-12-19 18:35:14 +0000",
       "minecraft:skeleton": "2024-12-18 00:00:01 +0000",
+      "minecraft:elder_guardian": "2024-12-20 20:09:47 +0000",
       "minecraft:ghast": "2024-12-19 01:32:11 +0000",
+      "minecraft:guardian": "2024-12-20 20:02:17 +0000",
       "minecraft:vindicator": "2024-12-18 00:31:36 +0000",
       "minecraft:magma_cube": "2024-12-19 00:41:27 +0000",
       "minecraft:spider": "2024-12-18 01:13:07 +0000",
@@ -6169,15 +6172,87 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-20 20:01:20 +0000"
+    },
+    "done": true
+  },
   "endrem:main/rogue_eye": {
     "criteria": {
       "rogue_eye": "2024-12-20 19:46:48 +0000"
     },
     "done": true
   },
+  "smallships:recipes/combat/cannon": {
+    "criteria": {
+      "has_ship": "2024-12-20 19:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-20 20:01:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-20 20:02:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-20 20:02:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2024-12-20 20:09:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-20 20:02:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-20 20:02:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-20 20:01:20 +0000"
+    },
+    "done": true
+  },
   "endrem:main/cold_eye": {
     "criteria": {
       "cold_eye": "2024-12-20 19:43:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-20 20:02:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-20 20:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-20 20:02:20 +0000"
     },
     "done": true
   },

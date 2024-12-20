@@ -1846,10 +1846,13 @@
       "minecraft:ghast": "2024-12-20 03:55:53 +0000",
       "minecraft:hoglin": "2024-12-20 06:37:45 +0000",
       "minecraft:vindicator": "2024-12-19 23:56:25 +0000",
+      "minecraft:magma_cube": "2024-12-20 19:58:17 +0000",
       "minecraft:spider": "2024-12-19 05:41:12 +0000",
       "minecraft:piglin_brute": "2024-12-20 04:03:01 +0000",
       "minecraft:creeper": "2024-12-18 23:31:58 +0000",
       "minecraft:evoker": "2024-12-20 00:05:56 +0000",
+      "minecraft:zombified_piglin": "2024-12-20 19:52:56 +0000",
+      "minecraft:witch": "2024-12-20 20:06:03 +0000",
       "minecraft:wither_skeleton": "2024-12-20 04:07:43 +0000",
       "minecraft:piglin": "2024-12-20 03:44:29 +0000",
       "minecraft:enderman": "2024-12-19 04:18:05 +0000",
@@ -2858,10 +2861,12 @@
   },
   "too_many_bows:master_bow_collector": {
     "criteria": {
+      "arc_heavens": "2024-12-20 19:55:28 +0000",
       "arcane_bow": "2024-12-19 23:35:10 +0000",
       "spectral_whisper": "2024-12-20 04:08:25 +0000",
       "emerald_sage_bow": "2024-12-20 19:38:33 +0000",
-      "cyroheart_bow": "2024-12-20 19:27:15 +0000"
+      "cyroheart_bow": "2024-12-20 19:27:15 +0000",
+      "vitality_weaver": "2024-12-20 19:57:25 +0000"
     },
     "done": false
   },
@@ -4017,9 +4022,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-20 19:58:28 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/surface_moss": {
     "criteria": {
       "has_moss_block": "2024-12-20 19:45:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-20 19:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-20 19:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-20 19:55:17 +0000"
     },
     "done": true
   },
@@ -4029,9 +4058,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-20 19:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/very_very_frightening": {
+    "criteria": {
+      "struck_villager": "2024-12-20 20:06:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2024-12-20 20:06:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-20 19:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-20 19:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-20 19:55:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2024-12-20 19:45:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-20 19:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-20 19:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2024-12-20 19:49:34 +0000"
     },
     "done": true
   },

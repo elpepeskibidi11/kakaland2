@@ -540,3 +540,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [20Dec2024 19:47:34.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nayitoo> asd
 [20Dec2024 19:47:34.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> t
 [20Dec2024 19:47:48.886] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5718ms or 114 ticks behind
+[20Dec2024 19:53:38.192] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[20Dec2024 20:01:20.342] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2720, y=50, z=133} BlockPos{x=2720, y=49, z=133}
+[20Dec2024 20:01:40.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaco_tomsk moved too quickly! -6.37579941624881,-1.8685347339812353,-16.681575881785875
+[20Dec2024 20:02:47.376] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/44794, l='ServerLevel[world]', x=1329.50, y=73.00, z=-1931.50]
+[20Dec2024 20:02:47.424] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/44796, l='ServerLevel[world]', x=1331.50, y=74.00, z=-1944.50]
+[20Dec2024 20:02:50.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaco_tomsk moved too quickly! -17.984377579531383,1.5818984791196016,-3.5547004244735945
+[20Dec2024 20:04:05.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nayitoo has made the advancement [Best Friends Forever]
+[20Dec2024 20:04:25.021] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaco_tomsk moved too quickly! -13.53222641219952,-0.6291773081415215,12.599721172799036
+[20Dec2024 20:05:34.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> t
+[20Dec2024 20:06:02.557] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/48573, l='ServerLevel[world]', x=367.94, y=63.30, z=-1818.36] was struck by lightning LightningBolt['Lightning Bolt'/49622, l='ServerLevel[world]', x=368.34, y=62.94, z=-1818.35].
+[20Dec2024 20:06:02.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [Very Very Frightening]
+[20Dec2024 20:06:03.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [Surge Protector]
+[20Dec2024 20:06:19.200] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/48575, l='ServerLevel[world]', x=400.41, y=64.00, z=-1852.76] was struck by lightning LightningBolt['Lightning Bolt'/49973, l='ServerLevel[world]', x=399.25, y=64.04, z=-1851.80].
+[20Dec2024 20:06:27.719] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2201ms or 44 ticks behind
+[20Dec2024 20:06:30.343] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/48388, l='ServerLevel[world]', x=400.70, y=64.36, z=-1865.70] was struck by lightning LightningBolt['Lightning Bolt'/50258, l='ServerLevel[world]', x=400.36, y=64.00, z=-1865.63].
+[20Dec2024 20:06:41.905] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/48390, l='ServerLevel[world]', x=401.36, y=64.00, z=-1877.63] was struck by lightning LightningBolt['Lightning Bolt'/50544, l='ServerLevel[world]', x=401.96, y=64.33, z=-1876.86].
+[20Dec2024 20:07:06.204] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/48574, l='ServerLevel[world]', x=368.92, y=65.18, z=-1812.53] was struck by lightning LightningBolt['Lightning Bolt'/50993, l='ServerLevel[world]', x=370.61, y=64.91, z=-1812.04].
+[20Dec2024 20:09:34.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk was blown up by Creeper

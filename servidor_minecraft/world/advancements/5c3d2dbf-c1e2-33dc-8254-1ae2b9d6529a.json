@@ -1386,6 +1386,7 @@
       "minecraft:skeleton": "2024-12-18 18:52:17 +0000",
       "minecraft:magma_cube": "2024-12-19 00:41:48 +0000",
       "minecraft:spider": "2024-12-18 18:54:20 +0000",
+      "minecraft:husk": "2024-12-20 20:07:42 +0000",
       "minecraft:enderman": "2024-12-19 03:39:09 +0000",
       "minecraft:zombie": "2024-12-18 18:27:49 +0000"
     },
@@ -3600,6 +3601,30 @@
   "twilightforest:recipes/decorations/wood/jungle_banister": {
     "criteria": {
       "has_item": "2024-12-20 18:54:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-20 20:04:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-12-20 19:58:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-20 20:12:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-20 19:56:34 +0000"
     },
     "done": true
   },
