@@ -78,3 +78,18 @@
 [20Dec2024 04:02:43.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [Those Were the Days]
 [20Dec2024 04:03:15.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [War Pigs]
 [20Dec2024 04:07:30.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [A Terrible Fortress]
+[20Dec2024 04:29:31.457] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 9zcoloskibidi[/127.213.240.60:48431] logged in with entity id 155635 at (819.3000000119209, 35.0, -150.48295729401292)
+[20Dec2024 04:29:31.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi joined the game
+[20Dec2024 04:29:31.485] [Server thread/INFO] [Jade/]: Syncing config to 9zcoloskibidi (9c72afac-23ff-3bb2-8fc8-2fdde0bc9112)
+[20Dec2024 04:31:23.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi has completed the challenge [Hot Tourist Destinations]
+[20Dec2024 04:33:52.264] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 9zcoloskibidi lost connection: Disconnected
+[20Dec2024 04:33:52.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi left the game
+[20Dec2024 04:34:09.773] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 9zcoloskibidi[/127.213.240.60:39107] logged in with entity id 160466 at (733.8603366581737, 69.0, -45.18060122345589)
+[20Dec2024 04:34:09.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi joined the game
+[20Dec2024 04:34:09.787] [Server thread/INFO] [Jade/]: Syncing config to 9zcoloskibidi (9c72afac-23ff-3bb2-8fc8-2fdde0bc9112)
+[20Dec2024 04:35:52.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] servidor jakeado por el rubius
+[20Dec2024 04:37:23.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi has made the advancement [Demon Slayer]
+[20Dec2024 04:38:35.458] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/164628, l='ServerLevel[world]', x=-7426.51, y=71.00, z=-2966.30] died, message: 'Unemployed was slain by Zombie'
+[20Dec2024 04:39:29.694] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jonathan1122[/127.169.8.59:52349] logged in with entity id 165456 at (2245.9404971638724, 94.0, -1258.6106611302228)
+[20Dec2024 04:39:29.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 joined the game
+[20Dec2024 04:39:29.719] [Server thread/INFO] [Jade/]: Syncing config to jonathan1122 (a07659a6-8778-3286-b26a-0e06bd88dc78)

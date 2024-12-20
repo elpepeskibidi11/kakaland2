@@ -1879,13 +1879,16 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-18 02:11:14 +0000",
       "minecraft:ghast": "2024-12-19 03:54:21 +0000",
+      "minecraft:hoglin": "2024-12-20 04:44:13 +0000",
       "minecraft:vindicator": "2024-12-19 04:58:37 +0000",
       "minecraft:magma_cube": "2024-12-19 04:34:45 +0000",
       "minecraft:spider": "2024-12-18 00:24:49 +0000",
       "minecraft:creeper": "2024-12-18 16:38:39 +0000",
       "minecraft:slime": "2024-12-18 17:51:08 +0000",
+      "minecraft:zombified_piglin": "2024-12-20 04:33:07 +0000",
       "minecraft:witch": "2024-12-18 17:39:04 +0000",
       "minecraft:cave_spider": "2024-12-18 17:33:18 +0000",
+      "minecraft:piglin": "2024-12-20 04:33:14 +0000",
       "minecraft:enderman": "2024-12-19 18:16:28 +0000",
       "minecraft:zombie": "2024-12-18 02:10:55 +0000",
       "minecraft:zombie_villager": "2024-12-18 17:30:00 +0000"
@@ -2970,12 +2973,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-20 04:31:23 +0000",
       "minecraft:soul_sand_valley": "2024-12-18 18:56:05 +0000",
       "minecraft:nether_wastes": "2024-12-20 01:59:55 +0000",
       "minecraft:basalt_deltas": "2024-12-19 04:21:06 +0000",
       "minecraft:warped_forest": "2024-12-20 02:07:14 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
@@ -3897,15 +3901,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/warped_fence_gate": {
+  "ecologics:recipes/food/mushroom_stew_from_coconut_husk": {
     "criteria": {
-      "has_planks": "2024-12-20 02:17:33 +0000"
+      "has_bowl": "2024-12-20 01:57:29 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/warped_hyphae": {
     "criteria": {
       "has_log": "2024-12-20 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2024-12-20 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-20 02:17:33 +0000"
     },
     "done": true
   },
@@ -3939,12 +3955,6 @@
     },
     "done": true
   },
-  "ecologics:recipes/food/mushroom_stew_from_coconut_husk": {
-    "criteria": {
-      "has_bowl": "2024-12-20 01:57:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/warped_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-20 02:17:33 +0000"
@@ -3957,15 +3967,123 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/warped_planks": {
-    "criteria": {
-      "has_logs": "2024-12-20 02:17:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/warped_fence": {
     "criteria": {
       "has_planks": "2024-12-20 02:17:33 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/golden_ring": {
+    "criteria": {
+      "has_nuggets_gold": "2024-12-20 04:33:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-20 04:33:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-20 04:33:12 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/simple_necklace": {
+    "criteria": {
+      "has_nuggets_gold": "2024-12-20 04:33:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-20 04:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-20 04:44:13 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/quiver": {
+    "criteria": {
+      "has_leather": "2024-12-20 04:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-20 04:44:13 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/crimson_ingot": {
+    "criteria": {
+      "has_item": "2024-12-20 04:37:23 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/molten_demon_heart": {
+    "criteria": {
+      "has_item": "2024-12-20 04:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-20 04:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-20 04:44:13 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:demon_heart": {
+    "criteria": {
+      "items": "2024-12-20 04:37:23 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/demon_chunk": {
+    "criteria": {
+      "has_item": "2024-12-20 04:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-20 04:44:13 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/crimson_obsidian": {
+    "criteria": {
+      "has_item": "2024-12-20 04:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-20 04:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-20 04:36:06 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/iron_ring": {
+    "criteria": {
+      "has_nuggets_iron": "2024-12-20 04:36:06 +0000"
     },
     "done": true
   },

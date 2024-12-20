@@ -5976,13 +5976,19 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+  "twilightforest:recipes/building_blocks/wood/aurora_slab_slab": {
     "criteria": {
-      "has_smooth_sandstone": "2024-12-20 00:45:39 +0000"
+      "has_item": "2024-12-20 00:26:23 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-20 00:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2024-12-20 00:27:09 +0000"
     },
@@ -5994,15 +6000,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2024-12-20 00:42:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2024-12-20 00:45:39 +0000"
     },
     "done": true
   },
-  "mowziesmobs:kill_frostmaw": {
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
-      "frostmaw": "2024-12-20 00:42:03 +0000"
+      "has_smooth_sandstone": "2024-12-20 00:45:39 +0000"
     },
     "done": true
   },
@@ -6012,21 +6024,21 @@
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/wood/aurora_slab_slab": {
-    "criteria": {
-      "has_item": "2024-12-20 00:26:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
     "criteria": {
       "has_smooth_sandstone": "2024-12-20 00:45:39 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/snow_block": {
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
-      "has_snowball": "2024-12-20 00:27:09 +0000"
+      "has_log": "2024-12-20 04:40:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-20 04:40:08 +0000"
     },
     "done": true
   },
