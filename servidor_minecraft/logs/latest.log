@@ -546,3 +546,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [20Dec2024 15:20:32.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 left the game
 [20Dec2024 15:20:34.440] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTata_ lost connection: Disconnected
 [20Dec2024 15:20:34.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTata_ left the game
+[20Dec2024 15:33:23.050] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jonathan1122[/127.169.8.59:56043] logged in with entity id 38424 at (-960.8451491093805, 79.0, -455.97885886641944)
+[20Dec2024 15:33:23.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 joined the game
+[20Dec2024 15:33:23.074] [Server thread/INFO] [Jade/]: Syncing config to jonathan1122 (a07659a6-8778-3286-b26a-0e06bd88dc78)
