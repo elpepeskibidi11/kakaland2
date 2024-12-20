@@ -1820,6 +1820,7 @@
       "minecraft:piglin_brute": "2024-12-19 17:54:24 +0000",
       "minecraft:creeper": "2024-12-18 01:47:27 +0000",
       "minecraft:wither": "2024-12-19 20:38:47 +0000",
+      "minecraft:husk": "2024-12-20 14:49:36 +0000",
       "minecraft:cave_spider": "2024-12-19 23:49:09 +0000",
       "minecraft:piglin": "2024-12-18 03:46:05 +0000",
       "minecraft:enderman": "2024-12-18 18:01:17 +0000",
@@ -6032,9 +6033,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-20 04:40:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-20 04:40:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-12-20 05:00:06 +0000"
+    },
+    "done": true
+  },
   "too_many_bows:necro_skull": {
     "criteria": {
       "get_necro_skull": "2024-12-20 05:11:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2024-12-20 05:13:53 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:draugr_boss": {
+    "criteria": {
+      "soulsweapons:night_shade": "2024-12-20 05:37:02 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/combat/darkmoon_longbow": {
+    "criteria": {
+      "has_item": "2024-12-20 05:37:02 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/draugr": {
+    "criteria": {
+      "has_item": "2024-12-20 05:37:02 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2024-12-20 05:45:38 +0000"
     },
     "done": true
   },
@@ -6050,21 +6099,9 @@
     },
     "done": true
   },
-  "endrem:main/corrupted_eye": {
-    "criteria": {
-      "corrupted_eye": "2024-12-20 05:45:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2024-12-20 05:49:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
-    "criteria": {
-      "has_log": "2024-12-20 04:40:08 +0000"
     },
     "done": true
   },
@@ -6074,21 +6111,9 @@
     },
     "done": true
   },
-  "soulsweapons:draugr_boss": {
-    "criteria": {
-      "soulsweapons:night_shade": "2024-12-20 05:37:02 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2024-12-20 05:49:21 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/darkmoon_longbow": {
-    "criteria": {
-      "has_item": "2024-12-20 05:37:02 +0000"
     },
     "done": true
   },
@@ -6098,33 +6123,9 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/draugr": {
-    "criteria": {
-      "has_item": "2024-12-20 05:37:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_bricks": {
-    "criteria": {
-      "has_nether_brick": "2024-12-20 05:13:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-20 05:49:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2024-12-20 05:00:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2024-12-20 04:40:08 +0000"
     },
     "done": true
   },
