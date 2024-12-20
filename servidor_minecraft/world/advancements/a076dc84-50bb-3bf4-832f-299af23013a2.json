@@ -2842,6 +2842,12 @@
     },
     "done": true
   },
+  "soulsweapons:all_weapons": {
+    "criteria": {
+      "darkin_blade": "2024-12-20 01:01:01 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2024-12-19 23:36:53 +0000"
