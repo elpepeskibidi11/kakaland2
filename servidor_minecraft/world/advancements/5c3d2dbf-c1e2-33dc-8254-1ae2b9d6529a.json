@@ -4343,6 +4343,12 @@
     },
     "done": true
   },
+  "twilightforest:arborist": {
+    "criteria": {
+      "canopy_sapling": "2024-12-20 22:59:15 +0000"
+    },
+    "done": false
+  },
   "domum_ornamentum:recipes/tools/white_paper_extra": {
     "criteria": {
       "has_material": "2024-12-20 22:45:34 +0000"
@@ -4361,6 +4367,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/food/food/smelted_venison": {
+    "criteria": {
+      "has_food": "2024-12-20 22:50:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2024-12-20 22:43:25 +0000"
@@ -4370,6 +4382,18 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-20 22:43:25 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/cicada_jar": {
+    "criteria": {
+      "has_item": "2024-12-20 22:50:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/campfired_venison": {
+    "criteria": {
+      "has_food": "2024-12-20 22:50:51 +0000"
     },
     "done": true
   },
@@ -4418,6 +4442,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-20 22:43:25 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smoked_venison": {
+    "criteria": {
+      "has_food": "2024-12-20 22:50:51 +0000"
     },
     "done": true
   },
