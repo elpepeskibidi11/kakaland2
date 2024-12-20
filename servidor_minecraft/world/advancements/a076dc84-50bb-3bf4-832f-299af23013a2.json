@@ -3266,6 +3266,12 @@
     },
     "done": true
   },
+  "soulsweapons:draugr_boss": {
+    "criteria": {
+      "soulsweapons:draugr_boss": "2024-12-20 05:17:43 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2024-12-20 04:53:07 +0000"
@@ -3282,6 +3288,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2024-12-20 04:54:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-20 05:22:26 +0000"
     },
     "done": true
   },

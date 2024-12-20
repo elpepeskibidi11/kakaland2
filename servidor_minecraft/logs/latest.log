@@ -111,3 +111,40 @@
 [20Dec2024 04:59:40.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 9zcoloskibidi moved wrongly!
 [20Dec2024 05:04:25.307] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/191420, l='ServerLevel[world]', x=-10294.31, y=111.52, z=-4702.66] died, message: 'Nitwit's atoms were crushed in joaco_tomsk's black hole'
 [20Dec2024 05:04:32.310] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/191481, l='ServerLevel[world]', x=-10287.70, y=112.91, z=-4698.33] died, message: 'Unemployed's atoms were crushed in joaco_tomsk's black hole'
+[20Dec2024 05:07:26.348] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2098ms or 41 ticks behind
+[20Dec2024 05:07:42.195] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cleriego[/127.183.165.76:48947] logged in with entity id 196501 at (-1047.1606670137794, 55.0, -132.350569839482)
+[20Dec2024 05:07:42.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cleriego joined the game
+[20Dec2024 05:07:42.209] [Server thread/INFO] [Jade/]: Syncing config to Cleriego (9760b24d-6689-3643-aaee-967c3e519ed9)
+[20Dec2024 05:07:51.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cleriego> holaaaa
+[20Dec2024 05:07:55.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cleriego> no tengo mic
+[20Dec2024 05:08:04.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> amen
+[20Dec2024 05:08:14.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cleriego> joputa
+[20Dec2024 05:11:00.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [The Necro Skull]
+[20Dec2024 05:15:30.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> Old champions remains
+[20Dec2024 05:17:59.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk was slain by Frenzied Shade
+[20Dec2024 05:18:25.727] [Worker-Main-325/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[20Dec2024 05:18:25.728] [Worker-Main-325/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[20Dec2024 05:18:32.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cleriego has made the advancement [False Water]
+[20Dec2024 05:20:16.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk fell from a high place
+[20Dec2024 05:20:18.851] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathan1122 moved too quickly! 0.49166629488604485,-11.433643280623443,-0.2545773814917993
+[20Dec2024 05:20:47.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk was shot by Frenzied Shade
+[20Dec2024 05:21:20.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk was shot by Frenzied Shade
+[20Dec2024 05:21:44.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk was shot by Frenzied Shade
+[20Dec2024 05:22:00.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk was slain by Frenzied Shade
+[20Dec2024 05:22:31.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk perished after being barraged by Frenzied Shade's Shadow Orbs
+[20Dec2024 05:22:45.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk was slain by Frenzied Shade
+[20Dec2024 05:23:00.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk was slain by Frenzied Shade
+[20Dec2024 05:23:11.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk was slain by Frenzied Shade
+[20Dec2024 05:23:25.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> tino el colo cagoneo contra vos mañana
+[20Dec2024 05:23:28.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> tiene miedo de que le pegues en la cara
+[20Dec2024 05:23:44.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk was slain by Frenzied Shade
+[20Dec2024 05:23:53.164] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2264ms or 45 ticks behind
+[20Dec2024 05:23:53.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 9zcoloskibidi moved too quickly! 4.521238289214693,-0.4012260614360059,-9.180930502793956
+[20Dec2024 05:24:05.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk was slain by Frenzied Shade
+[20Dec2024 05:24:15.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk was slain by Frenzied Shade
+[20Dec2024 05:24:23.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathan1122 moved too quickly! 8.586350611138414,2.419999986886978,4.920055986001785
+[20Dec2024 05:24:26.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk was shot by Frenzied Shade
+[20Dec2024 05:25:26.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk was slain by Frenzied Shade
+[20Dec2024 05:25:52.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk was slain by Frenzied Shade
+[20Dec2024 05:26:35.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> tt
+[20Dec2024 05:26:50.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk was slain by Frenzied Shade

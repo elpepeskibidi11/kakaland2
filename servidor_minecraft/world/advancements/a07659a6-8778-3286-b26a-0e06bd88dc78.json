@@ -2822,6 +2822,7 @@
     "criteria": {
       "spectral_whisper": "2024-12-19 18:35:22 +0000",
       "emerald_sage_bow": "2024-12-18 01:58:23 +0000",
+      "scatter_bow": "2024-12-20 05:10:53 +0000",
       "vitality_weaver": "2024-12-19 17:55:35 +0000"
     },
     "done": false
@@ -6030,9 +6031,21 @@
     },
     "done": true
   },
+  "too_many_bows:necro_skull": {
+    "criteria": {
+      "get_necro_skull": "2024-12-20 05:11:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
       "has_log": "2024-12-20 04:40:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2024-12-20 05:13:53 +0000"
     },
     "done": true
   },
