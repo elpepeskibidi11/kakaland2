@@ -1847,6 +1847,7 @@
       "minecraft:wither_skeleton": "2024-12-20 04:07:43 +0000",
       "minecraft:piglin": "2024-12-20 03:44:29 +0000",
       "minecraft:enderman": "2024-12-19 04:18:05 +0000",
+      "minecraft:vex": "2024-12-20 06:21:56 +0000",
       "minecraft:zombie": "2024-12-18 03:17:22 +0000",
       "minecraft:drowned": "2024-12-19 05:26:25 +0000",
       "minecraft:zombie_villager": "2024-12-19 22:52:45 +0000"
@@ -3230,9 +3231,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-12-20 06:22:26 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/dragonslayer_swordspear": {
     "criteria": {
       "has_item": "2024-12-20 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 06:17:38 +0000"
     },
     "done": true
   },
@@ -3266,9 +3279,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 06:17:38 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/darkin_scythe_pre": {
     "criteria": {
       "has_item": "2024-12-20 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 06:17:38 +0000"
     },
     "done": true
   },
@@ -3284,6 +3309,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-20 06:23:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-20 04:53:07 +0000"
@@ -3293,6 +3324,12 @@
   "soulsweapons:recipes/combat/leviathan_axe_right": {
     "criteria": {
       "has_item": "2024-12-20 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 06:17:05 +0000"
     },
     "done": true
   },
@@ -3311,6 +3348,18 @@
   "soulsweapons:recipes/combat/draupnir_spear": {
     "criteria": {
       "has_item": "2024-12-20 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-20 06:17:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-12-20 06:23:34 +0000"
     },
     "done": true
   },
@@ -3387,6 +3436,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 06:17:38 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/darkin_blade": {
     "criteria": {
       "has_lord_soul": "2024-12-20 05:29:13 +0000"
@@ -3427,6 +3482,12 @@
   "soulsweapons:recipes/combat/master_sword": {
     "criteria": {
       "has_lord_soul": "2024-12-20 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-20 06:23:35 +0000"
     },
     "done": true
   },
@@ -3473,6 +3534,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-12-20 06:23:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_block": "2024-12-20 05:37:39 +0000"
@@ -3509,6 +3576,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 06:17:38 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/rageblade": {
     "criteria": {
       "has_item": "2024-12-20 05:29:13 +0000"
@@ -3518,6 +3591,18 @@
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-20 04:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 06:17:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 06:17:38 +0000"
     },
     "done": true
   },
