@@ -530,3 +530,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [20Dec2024 18:10:03.828] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaco_tomsk lost connection: Disconnected
 [20Dec2024 18:10:03.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk left the game
 [20Dec2024 18:10:03.892] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Dec2024 18:16:18.462] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaco_tomsk[/127.79.179.172:40515] logged in with entity id 7927 at (2262.0126086493506, 94.0, -1261.6068534934489)
+[20Dec2024 18:16:18.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk joined the game
+[20Dec2024 18:16:18.512] [Server thread/INFO] [Jade/]: Syncing config to joaco_tomsk (a076dc84-50bb-3bf4-832f-299af23013a2)
+[20Dec2024 18:16:53.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> se reinicio el modem y no me carga discord
+[20Dec2024 18:17:00.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nayitoo> control + r
+[20Dec2024 18:17:45.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> sin conexion
+[20Dec2024 18:17:48.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> wtf
+[20Dec2024 18:20:47.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> tenes arcane essence?
