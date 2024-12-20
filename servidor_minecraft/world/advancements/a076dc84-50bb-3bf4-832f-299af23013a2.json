@@ -29,12 +29,15 @@
       "minecraft:old_growth_pine_taiga": "2024-12-18 23:51:02 +0000",
       "minecraft:taiga": "2024-12-18 23:10:49 +0000",
       "minecraft:deep_ocean": "2024-12-20 04:48:31 +0000",
+      "minecraft:eroded_badlands": "2024-12-20 19:35:27 +0000",
       "minecraft:frozen_river": "2024-12-19 00:06:48 +0000",
       "minecraft:sunflower_plains": "2024-12-19 23:38:01 +0000",
       "minecraft:cherry_grove": "2024-12-20 05:00:24 +0000",
       "minecraft:birch_forest": "2024-12-18 03:04:54 +0000",
       "minecraft:windswept_hills": "2024-12-19 00:42:39 +0000",
       "minecraft:bamboo_jungle": "2024-12-18 02:44:52 +0000",
+      "minecraft:wooded_badlands": "2024-12-20 19:45:08 +0000",
+      "minecraft:badlands": "2024-12-20 19:35:30 +0000",
       "minecraft:savanna_plateau": "2024-12-20 18:46:36 +0000",
       "minecraft:beach": "2024-12-18 23:56:42 +0000",
       "minecraft:dark_forest": "2024-12-18 03:05:31 +0000",
@@ -2856,7 +2859,9 @@
   "too_many_bows:master_bow_collector": {
     "criteria": {
       "arcane_bow": "2024-12-19 23:35:10 +0000",
-      "spectral_whisper": "2024-12-20 04:08:25 +0000"
+      "spectral_whisper": "2024-12-20 04:08:25 +0000",
+      "emerald_sage_bow": "2024-12-20 19:38:33 +0000",
+      "cyroheart_bow": "2024-12-20 19:27:15 +0000"
     },
     "done": false
   },
@@ -3826,12 +3831,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_button": {
-    "criteria": {
-      "has_planks": "2024-12-20 18:53:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/polished_deepslate_wall": {
     "criteria": {
       "has_polished_deepslate": "2024-12-20 18:42:32 +0000"
@@ -3844,21 +3843,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-20 18:53:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab": {
     "criteria": {
       "has_polished_deepslate": "2024-12-20 18:42:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_slab": {
-    "criteria": {
-      "has_planks": "2024-12-20 18:53:47 +0000"
     },
     "done": true
   },
@@ -3874,39 +3861,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-12-20 18:53:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-20 18:42:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-20 18:53:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_door": {
-    "criteria": {
-      "has_planks": "2024-12-20 18:53:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-20 18:42:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-12-20 18:53:47 +0000"
     },
     "done": true
   },
@@ -3922,33 +3885,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/acacia_sign": {
-    "criteria": {
-      "has_planks": "2024-12-20 18:53:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-20 18:42:32 +0000"
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
-    "criteria": {
-      "arcane_anvil": "2024-12-20 18:43:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-20 18:42:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/acacia_fence": {
-    "criteria": {
-      "has_planks": "2024-12-20 18:53:47 +0000"
     },
     "done": true
   },
@@ -3973,6 +3918,126 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
       "has_polished_deepslate": "2024-12-20 18:42:32 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
+    "criteria": {
+      "arcane_anvil": "2024-12-20 18:43:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2024-12-20 18:53:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-20 18:53:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2024-12-20 18:53:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-20 18:53:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-20 18:53:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2024-12-20 18:53:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-20 18:53:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2024-12-20 18:53:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2024-12-20 18:53:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-20 19:29:59 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/old_eye": {
+    "criteria": {
+      "old_eye": "2024-12-20 19:30:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2024-12-20 19:31:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2024-12-20 19:31:12 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/rogue_eye": {
+    "criteria": {
+      "rogue_eye": "2024-12-20 19:38:36 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2024-12-20 19:38:53 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/surface_moss": {
+    "criteria": {
+      "has_moss_block": "2024-12-20 19:45:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-20 19:45:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-20 19:45:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-20 19:45:25 +0000"
     },
     "done": true
   },

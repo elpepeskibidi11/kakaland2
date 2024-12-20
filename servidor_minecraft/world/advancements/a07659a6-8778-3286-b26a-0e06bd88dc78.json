@@ -6169,5 +6169,17 @@
     },
     "done": true
   },
+  "endrem:main/rogue_eye": {
+    "criteria": {
+      "rogue_eye": "2024-12-20 19:46:48 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/cold_eye": {
+    "criteria": {
+      "cold_eye": "2024-12-20 19:43:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
