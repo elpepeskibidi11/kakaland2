@@ -5,3 +5,14 @@
 [20Dec2024 00:04:25.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has reached the goal [Hydra Slayer]
 [20Dec2024 00:06:07.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [Voluntary Exile]
 [20Dec2024 00:08:39.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has reached the goal [Alpha Fur]
+[20Dec2024 00:14:04.217] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathan1122 lost connection: Disconnected
+[20Dec2024 00:14:04.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 left the game
+[20Dec2024 00:14:05.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has reached the goal [Postmortal]
+[20Dec2024 00:20:12.504] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/61467, l='ServerLevel[world]', x=-2660.68, y=68.42, z=-2446.41] died, message: 'Unemployed went up in flames'
+[20Dec2024 00:20:17.702] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/61466, l='ServerLevel[world]', x=-2665.59, y=70.00, z=-2442.49] died, message: 'Unemployed went up in flames'
+[20Dec2024 00:21:35.179] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jonathan1122[/127.169.8.59:46235] logged in with entity id 72268 at (17962.30000001192, 11.0, -10183.434425059024)
+[20Dec2024 00:21:35.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 joined the game
+[20Dec2024 00:21:35.206] [Server thread/INFO] [Jade/]: Syncing config to jonathan1122 (a07659a6-8778-3286-b26a-0e06bd88dc78)
+[20Dec2024 00:29:13.337] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 9zcoloskibidi[/127.213.240.60:57917] logged in with entity id 75628 at (7962.147991513623, 98.0, 3586.2741383105904)
+[20Dec2024 00:29:13.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi joined the game
+[20Dec2024 00:29:13.356] [Server thread/INFO] [Jade/]: Syncing config to 9zcoloskibidi (9c72afac-23ff-3bb2-8fc8-2fdde0bc9112)

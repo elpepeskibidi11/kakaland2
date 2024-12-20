@@ -2866,6 +2866,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2024-12-20 00:14:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-19 23:58:56 +0000"
@@ -2923,6 +2929,12 @@
   "endrem:main/root": {
     "criteria": {
       "corrupted_eye": "2024-12-19 23:36:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-20 00:26:42 +0000"
     },
     "done": true
   },
