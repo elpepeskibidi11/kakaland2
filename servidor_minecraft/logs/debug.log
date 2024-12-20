@@ -13678,3 +13678,31 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [20Dec2024 22:29:03.322] [Server thread/INFO] [Jade/]: Syncing config to Nayitoo (5c3d2dbf-c1e2-33dc-8254-1ae2b9d6529a)
 [20Dec2024 22:29:27.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Dec2024 22:29:27.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 22:34:27.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 22:34:27.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 22:34:56.931] [Server thread/INFO] [twilightforest/]: GENERATING ORE TO BLOCK MAPPING
+[20Dec2024 22:37:10.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nayitoo has made the advancement [I Can See Forever]
+[20Dec2024 22:37:22.735] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/164766, l='ServerLevel[world]', x=-7387.54, y=-1.85, z=132856.45], dimensionLocationPath twilight_forest
+[20Dec2024 22:39:27.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 22:39:27.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 22:39:51.384] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Glowstone Dust'/164766, l='ServerLevel[world]', x=-7388.26, y=-4.00, z=132855.85, removed=UNLOADED_TO_CHUNK]
+[20Dec2024 22:39:51.434] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/165345, l='ServerLevel[world]', x=-7388.26, y=-4.00, z=132855.85], dimensionLocationPath twilight_forest
+[20Dec2024 22:39:51.434] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Glowstone Dust'/165345, l='ServerLevel[world]', x=-7388.26, y=-4.00, z=132855.85] in list []
+[20Dec2024 22:39:51.715] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Glowstone Dust'/165345, l='ServerLevel[world]', x=-7388.26, y=-4.00, z=132855.85, removed=UNLOADED_TO_CHUNK]
+[20Dec2024 22:40:39.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nayitoo moved wrongly!
+[20Dec2024 22:42:29.842] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/182167, l='ServerLevel[world]', x=-7388.26, y=-4.00, z=132855.85], dimensionLocationPath twilight_forest
+[20Dec2024 22:42:29.842] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Glowstone Dust'/182167, l='ServerLevel[world]', x=-7388.26, y=-4.00, z=132855.85] in list []
+[20Dec2024 22:43:00.681] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Glowstone Dust'/182167, l='ServerLevel[world]', x=-7388.26, y=-4.00, z=132855.85, removed=UNLOADED_TO_CHUNK]
+[20Dec2024 22:43:00.734] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/182482, l='ServerLevel[world]', x=-7388.26, y=-4.00, z=132855.85], dimensionLocationPath twilight_forest
+[20Dec2024 22:43:00.734] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Glowstone Dust'/182482, l='ServerLevel[world]', x=-7388.26, y=-4.00, z=132855.85] in list []
+[20Dec2024 22:43:01.089] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Glowstone Dust'/182482, l='ServerLevel[world]', x=-7388.26, y=-4.00, z=132855.85, removed=UNLOADED_TO_CHUNK]
+[20Dec2024 22:44:27.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 22:44:27.554] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 22:44:41.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] [22:37:10] [Server thread/INFO] [minecraft/MinecraftServer]: Nayitoo has activated XRAY-MODMENU 7.2
+[20Dec2024 22:45:17.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] asi está la agusneta chat
+[20Dec2024 22:46:20.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nayitoo> omaigo
+[20Dec2024 22:46:22.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nayitoo> perdon
+[20Dec2024 22:46:32.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nayitoo> toy en el twilight
+[20Dec2024 22:46:36.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nayitoo> godeta
+[20Dec2024 22:49:27.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 22:49:27.549] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

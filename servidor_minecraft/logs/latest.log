@@ -679,3 +679,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [20Dec2024 22:29:03.245] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nayitoo[/127.211.51.10:56813] logged in with entity id 163093 at (-7361.953263648658, -2.0, 132861.30000001192)
 [20Dec2024 22:29:03.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nayitoo joined the game
 [20Dec2024 22:29:03.322] [Server thread/INFO] [Jade/]: Syncing config to Nayitoo (5c3d2dbf-c1e2-33dc-8254-1ae2b9d6529a)
+[20Dec2024 22:34:56.931] [Server thread/INFO] [twilightforest/]: GENERATING ORE TO BLOCK MAPPING
+[20Dec2024 22:37:10.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nayitoo has made the advancement [I Can See Forever]
+[20Dec2024 22:40:39.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nayitoo moved wrongly!
+[20Dec2024 22:44:41.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] [22:37:10] [Server thread/INFO] [minecraft/MinecraftServer]: Nayitoo has activated XRAY-MODMENU 7.2
+[20Dec2024 22:45:17.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] asi está la agusneta chat
+[20Dec2024 22:46:20.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nayitoo> omaigo
+[20Dec2024 22:46:22.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nayitoo> perdon
+[20Dec2024 22:46:32.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nayitoo> toy en el twilight
+[20Dec2024 22:46:36.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nayitoo> godeta
