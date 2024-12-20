@@ -532,3 +532,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [20Dec2024 14:58:24.908] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElTata_[/127.84.218.170:50287] logged in with entity id 21446 at (-18571.81626206466, -13.0, 3478.5253844182785)
 [20Dec2024 14:58:24.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTata_ joined the game
 [20Dec2024 14:58:24.924] [Server thread/INFO] [Jade/]: Syncing config to ElTata_ (596de23a-5665-3bed-874d-497170c43242)
+[20Dec2024 15:03:59.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [A New Protector...]
+[20Dec2024 15:04:30.001] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[20Dec2024 15:04:30.017] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[20Dec2024 15:04:31.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2174ms or 43 ticks behind
+[20Dec2024 15:05:46.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> t
+[20Dec2024 15:11:20.585] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/30071, l='ServerLevel[world]', x=3678.50, y=74.00, z=-1600.50]
+[20Dec2024 15:11:30.737] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/30243, l='ServerLevel[world]', x=3600.50, y=73.00, z=-1629.50]
+[20Dec2024 15:12:32.285] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/31133, l='ServerLevel[world]', x=3404.50, y=78.00, z=-1723.50]

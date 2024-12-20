@@ -1820,6 +1820,7 @@
       "minecraft:piglin_brute": "2024-12-19 17:54:24 +0000",
       "minecraft:creeper": "2024-12-18 01:47:27 +0000",
       "minecraft:wither": "2024-12-19 20:38:47 +0000",
+      "minecraft:zombified_piglin": "2024-12-20 15:04:11 +0000",
       "minecraft:husk": "2024-12-20 14:49:36 +0000",
       "minecraft:cave_spider": "2024-12-19 23:49:09 +0000",
       "minecraft:piglin": "2024-12-18 03:46:05 +0000",
@@ -2824,6 +2825,7 @@
       "arc_heavens": "2024-12-20 06:03:50 +0000",
       "spectral_whisper": "2024-12-19 18:35:22 +0000",
       "emerald_sage_bow": "2024-12-18 01:58:23 +0000",
+      "sentinels_wrath": "2024-12-20 15:03:31 +0000",
       "scatter_bow": "2024-12-20 05:10:53 +0000",
       "vitality_weaver": "2024-12-19 17:55:35 +0000"
     },
@@ -6150,6 +6152,18 @@
   "minecraft:nether/distract_piglin": {
     "criteria": {
       "distract_piglin": "2024-12-20 14:54:50 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/chungus_monolith": {
+    "criteria": {
+      "has_item": "2024-12-20 15:02:04 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/cursed_eye": {
+    "criteria": {
+      "cursed_eye": "2024-12-20 15:03:59 +0000"
     },
     "done": true
   },
