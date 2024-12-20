@@ -1839,6 +1839,7 @@
       "minecraft:skeleton": "2024-12-18 23:33:19 +0000",
       "minecraft:ravager": "2024-12-20 00:00:31 +0000",
       "minecraft:ghast": "2024-12-20 03:55:53 +0000",
+      "minecraft:hoglin": "2024-12-20 06:37:45 +0000",
       "minecraft:vindicator": "2024-12-19 23:56:25 +0000",
       "minecraft:spider": "2024-12-19 05:41:12 +0000",
       "minecraft:piglin_brute": "2024-12-20 04:03:01 +0000",
@@ -3351,9 +3352,21 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/crimson_ingot": {
+    "criteria": {
+      "has_item": "2024-12-20 06:36:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2024-12-20 06:17:05 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/molten_demon_heart": {
+    "criteria": {
+      "has_item": "2024-12-20 06:36:18 +0000"
     },
     "done": true
   },
@@ -3534,6 +3547,12 @@
     },
     "done": true
   },
+  "soulsweapons:demon_heart": {
+    "criteria": {
+      "items": "2024-12-20 06:36:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2024-12-20 06:23:35 +0000"
@@ -3588,6 +3607,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/demon_chunk": {
+    "criteria": {
+      "has_item": "2024-12-20 06:36:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-20 04:53:07 +0000"
@@ -3597,6 +3622,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2024-12-20 06:17:05 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/crimson_obsidian": {
+    "criteria": {
+      "has_item": "2024-12-20 06:36:18 +0000"
     },
     "done": true
   },

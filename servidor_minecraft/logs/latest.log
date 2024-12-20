@@ -232,3 +232,5 @@
 [20Dec2024 06:25:09.800] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/283285, l='ServerLevel[world]', x=-9078.50, y=75.00, z=-2339.50]
 [20Dec2024 06:25:15.209] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/281872, l='ServerLevel[world]', x=-9100.47, y=68.00, z=-2281.86] died, message: 'Unemployed was burnt to a crisp whilst fighting joaco_tomsk'
 [20Dec2024 06:26:09.301] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/283662, l='ServerLevel[world]', x=-9180.50, y=74.00, z=-2302.50]
+[20Dec2024 06:32:58.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7165ms or 143 ticks behind
+[20Dec2024 06:36:18.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [Demon Slayer]

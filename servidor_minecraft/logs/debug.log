@@ -15036,3 +15036,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [20Dec2024 06:26:09.301] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/283662, l='ServerLevel[world]', x=-9180.50, y=74.00, z=-2302.50]
 [20Dec2024 06:30:02.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Dec2024 06:30:02.324] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 06:32:58.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7165ms or 143 ticks behind
+[20Dec2024 06:33:19.557] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[20Dec2024 06:35:09.366] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 06:35:09.373] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 06:35:27.998] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [5bee68bd-55cb-4fb2-b540-b894ae43dcec]
+[20Dec2024 06:36:18.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [Demon Slayer]
+[20Dec2024 06:37:45.807] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[20Dec2024 06:38:47.517] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} 767 -12 -12 VisualFallingBlockEntity['Falling Netherrack'/286517, l='ServerLevel[world]', x=767.50, y=81.00, z=-11.50]
+[20Dec2024 06:38:47.519] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} 763 -11 -11 VisualFallingBlockEntity['Falling Netherrack'/286518, l='ServerLevel[world]', x=763.50, y=83.00, z=-10.50]
+[20Dec2024 06:38:47.538] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} 764 -11 -11 VisualFallingBlockEntity['Falling Netherrack'/286519, l='ServerLevel[world]', x=764.50, y=77.00, z=-10.50]
+[20Dec2024 06:38:47.544] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} 764 -18 -18 VisualFallingBlockEntity['Falling Netherrack'/286520, l='ServerLevel[world]', x=764.50, y=83.00, z=-17.50]
+[20Dec2024 06:38:47.545] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} 768 -18 -18 VisualFallingBlockEntity['Falling Netherrack'/286521, l='ServerLevel[world]', x=768.50, y=82.00, z=-17.50]
+[20Dec2024 06:38:47.581] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} 762 -12 -12 VisualFallingBlockEntity['Falling Netherrack'/286522, l='ServerLevel[world]', x=762.50, y=84.00, z=-11.50]
+[20Dec2024 06:39:39.507] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[20Dec2024 06:40:09.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 06:40:09.375] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
