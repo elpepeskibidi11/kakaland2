@@ -1824,6 +1824,7 @@
       "minecraft:piglin_brute": "2024-12-19 17:54:24 +0000",
       "minecraft:creeper": "2024-12-18 01:47:27 +0000",
       "minecraft:wither": "2024-12-19 20:38:47 +0000",
+      "minecraft:phantom": "2024-12-20 20:23:00 +0000",
       "minecraft:zombified_piglin": "2024-12-20 15:04:11 +0000",
       "minecraft:husk": "2024-12-20 14:49:36 +0000",
       "minecraft:cave_spider": "2024-12-19 23:49:09 +0000",
@@ -6232,6 +6233,12 @@
     },
     "done": true
   },
+  "endrem:main/evil_eye": {
+    "criteria": {
+      "evil_eye": "2024-12-20 20:20:17 +0000"
+    },
+    "done": true
+  },
   "endrem:main/cold_eye": {
     "criteria": {
       "cold_eye": "2024-12-20 19:43:48 +0000"
@@ -6253,6 +6260,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2024-12-20 20:02:20 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2024-12-20 20:19:44 +0000"
     },
     "done": true
   },
