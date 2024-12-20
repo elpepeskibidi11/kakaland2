@@ -35,8 +35,10 @@
       "minecraft:birch_forest": "2024-12-18 03:04:54 +0000",
       "minecraft:windswept_hills": "2024-12-19 00:42:39 +0000",
       "minecraft:bamboo_jungle": "2024-12-18 02:44:52 +0000",
+      "minecraft:savanna_plateau": "2024-12-20 18:46:36 +0000",
       "minecraft:beach": "2024-12-18 23:56:42 +0000",
       "minecraft:dark_forest": "2024-12-18 03:05:31 +0000",
+      "minecraft:stony_peaks": "2024-12-20 18:48:12 +0000",
       "minecraft:mangrove_swamp": "2024-12-19 05:05:02 +0000",
       "minecraft:sparse_jungle": "2024-12-18 02:44:57 +0000",
       "minecraft:river": "2024-12-17 05:29:13 +0000",
@@ -3821,6 +3823,102 @@
   "irons_spellbooks:irons_spellbooks/staff_root": {
     "criteria": {
       "requirement": "2024-12-20 18:02:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-20 18:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-20 18:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-20 18:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-20 18:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-20 18:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-20 18:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-20 18:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-20 18:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-20 18:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-20 18:42:32 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
+    "criteria": {
+      "arcane_anvil": "2024-12-20 18:43:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-20 18:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-20 18:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-20 18:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-20 18:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-20 18:42:32 +0000"
     },
     "done": true
   },

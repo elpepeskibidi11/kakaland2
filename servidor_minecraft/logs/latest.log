@@ -538,3 +538,40 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [20Dec2024 18:17:45.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> sin conexion
 [20Dec2024 18:17:48.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> wtf
 [20Dec2024 18:20:47.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> tenes arcane essence?
+[20Dec2024 18:20:52.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> (el povlo azul)
+[20Dec2024 18:21:04.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nayitoo> hmm
+[20Dec2024 18:21:08.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nayitoo> aguantame
+[20Dec2024 18:21:34.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nayitoo> nop
+[20Dec2024 18:22:17.471] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2716ms or 54 ticks behind
+[20Dec2024 18:24:19.426] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaco_tomsk lost connection: Timed out
+[20Dec2024 18:24:19.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk left the game
+[20Dec2024 18:26:28.536] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaco_tomsk[/127.79.179.172:47519] logged in with entity id 11929 at (551.668464792391, 72.0, 624.2629595665296)
+[20Dec2024 18:26:28.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk joined the game
+[20Dec2024 18:26:28.615] [Server thread/INFO] [Jade/]: Syncing config to joaco_tomsk (a076dc84-50bb-3bf4-832f-299af23013a2)
+[20Dec2024 18:26:43.219] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaco_tomsk lost connection: Disconnected
+[20Dec2024 18:26:43.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk left the game
+[20Dec2024 18:26:51.004] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaco_tomsk[/127.79.179.172:38721] logged in with entity id 12166 at (551.668464792391, 72.0, 624.2629595665296)
+[20Dec2024 18:26:51.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk joined the game
+[20Dec2024 18:26:51.031] [Server thread/INFO] [Jade/]: Syncing config to joaco_tomsk (a076dc84-50bb-3bf4-832f-299af23013a2)
+[20Dec2024 18:30:11.852] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jonathan1122[/127.169.8.59:49325] logged in with entity id 13437 at (2171.5633796906263, 109.0, -1198.300000011921)
+[20Dec2024 18:30:11.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 joined the game
+[20Dec2024 18:30:11.918] [Server thread/INFO] [Jade/]: Syncing config to jonathan1122 (a07659a6-8778-3286-b26a-0e06bd88dc78)
+[20Dec2024 18:31:56.738] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElTata_[/127.84.218.170:33661] logged in with entity id 14286 at (-18570.403014654446, 115.08877715412778, 3649.4771778726004)
+[20Dec2024 18:31:56.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTata_ joined the game
+[20Dec2024 18:31:56.749] [Server thread/INFO] [Jade/]: Syncing config to ElTata_ (596de23a-5665-3bed-874d-497170c43242)
+[20Dec2024 18:32:03.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTata_ was shot by Skeleton
+[20Dec2024 18:43:19.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has completed the challenge [It's Purple!]
+[20Dec2024 18:45:18.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> t
+[20Dec2024 18:47:19.183] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[20Dec2024 18:48:19.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaco_tomsk moved too quickly! 0.14108402598048997,10.619907922289627,-4.708279740819762
+[20Dec2024 18:48:25.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaco_tomsk moved too quickly! -1.6627713532097914,-8.89549103580677,-15.005131290433383
+[20Dec2024 18:49:17.286] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4180ms or 83 ticks behind
+[20Dec2024 18:49:17.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nayitoo moved too quickly! 10.154418423723087,0.0,-0.6114491955122503
+[20Dec2024 18:49:17.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> fg
+[20Dec2024 18:49:54.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaco_tomsk moved too quickly! 3.0195738584579885,-11.969498197091255,-13.482943517446984
+[20Dec2024 18:49:54.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nayitoo moved too quickly! -5.0779536884766685,-0.8288679939575161,8.785276379905554
+[20Dec2024 18:49:54.239] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2784ms or 55 ticks behind
+[20Dec2024 18:49:57.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaco_tomsk moved too quickly! -2.1092615110592305,-9.408531025403121,-15.137724784189231
+[20Dec2024 18:50:12.358] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3152ms or 63 ticks behind
+[20Dec2024 18:50:38.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaco_tomsk moved too quickly! -1.0617742469867153,-10.37280043755753,-14.894996158554022
+[20Dec2024 18:50:38.799] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2594ms or 51 ticks behind
