@@ -1833,6 +1833,7 @@
       "minecraft:spider": "2024-12-19 05:41:12 +0000",
       "minecraft:creeper": "2024-12-18 23:31:58 +0000",
       "minecraft:evoker": "2024-12-20 00:05:56 +0000",
+      "minecraft:piglin": "2024-12-20 03:44:29 +0000",
       "minecraft:enderman": "2024-12-19 04:18:05 +0000",
       "minecraft:zombie": "2024-12-18 03:17:22 +0000",
       "minecraft:drowned": "2024-12-19 05:26:25 +0000",
@@ -2860,6 +2861,13 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-12-20 03:41:50 +0000",
+      "minecraft:nether_wastes": "2024-12-20 03:42:24 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2024-12-20 03:34:20 +0000"
@@ -2875,6 +2883,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2024-12-20 03:34:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-20 03:41:49 +0000"
     },
     "done": true
   },
@@ -3058,6 +3072,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-20 03:41:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-20 03:33:39 +0000"
@@ -3127,6 +3147,12 @@
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2024-12-19 23:58:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2024-12-20 03:34:48 +0000"
     },
     "done": true
   },
