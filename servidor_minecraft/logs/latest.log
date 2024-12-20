@@ -517,3 +517,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [20Dec2024 17:59:32.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk joined the game
 [20Dec2024 17:59:32.824] [Server thread/INFO] [Jade/]: Syncing config to joaco_tomsk (a076dc84-50bb-3bf4-832f-299af23013a2)
 [20Dec2024 17:59:36.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nayitoo> omg
+[20Dec2024 17:59:55.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> si, no me uno a discord por que esta lumalu solo
+[20Dec2024 18:00:00.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nayitoo> AJSAJSJ
+[20Dec2024 18:00:03.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nayitoo> ya sabia
+[20Dec2024 18:00:10.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> xq yo tengo 120 de ping y vos 30
+[20Dec2024 18:00:17.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nayitoo> son las muertes
+[20Dec2024 18:00:20.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nayitoo> yo tmb pense q era ping
+[20Dec2024 18:00:25.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> 124
+[20Dec2024 18:00:29.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> a la mierda
+[20Dec2024 18:02:13.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [Quite the Walking Stick]
+[20Dec2024 18:02:13.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [No Longer Short-Staffed]
+[20Dec2024 18:10:03.828] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaco_tomsk lost connection: Disconnected
+[20Dec2024 18:10:03.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk left the game
+[20Dec2024 18:10:03.892] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
