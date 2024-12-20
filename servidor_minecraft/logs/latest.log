@@ -617,3 +617,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [20Dec2024 20:41:29.794] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-337, y=57, z=44} BlockPos{x=-335, y=56, z=44}
 [20Dec2024 20:41:30.443] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-339, y=57, z=44} BlockPos{x=-339, y=56, z=44}
 [20Dec2024 20:43:45.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Stare Into Despair]
+[20Dec2024 20:58:10.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaco_tomsk moved too quickly! 1.7040959293826745,-5.143161538202165,-18.07243857265979
+[20Dec2024 21:01:05.208] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nayitoo[/127.211.51.10:59025] logged in with entity id 88109 at (-865.5, 113.0, 16623.5)
+[20Dec2024 21:01:05.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nayitoo joined the game
+[20Dec2024 21:01:05.232] [Server thread/INFO] [Jade/]: Syncing config to Nayitoo (5c3d2dbf-c1e2-33dc-8254-1ae2b9d6529a)
+[20Dec2024 21:03:23.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> t
+[20Dec2024 21:05:38.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> t
