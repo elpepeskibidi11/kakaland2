@@ -3174,7 +3174,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-12-20 03:41:50 +0000",
       "minecraft:nether_wastes": "2024-12-20 03:42:24 +0000",
-      "minecraft:soul_sand_valley": "2024-12-20 03:55:31 +0000"
+      "minecraft:soul_sand_valley": "2024-12-20 03:55:31 +0000",
+      "minecraft:warped_forest": "2024-12-20 06:51:12 +0000"
     },
     "done": false
   },
@@ -3220,9 +3221,9 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/moonlight_greatsword": {
+  "endrem:main/black_eye": {
     "criteria": {
-      "has_lord_soul": "2024-12-20 05:29:13 +0000"
+      "black_eye": "2024-12-20 04:52:13 +0000"
     },
     "done": true
   },
@@ -3232,87 +3233,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald": {
-    "criteria": {
-      "has_emerald_block": "2024-12-20 06:22:26 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/dragonslayer_swordspear": {
-    "criteria": {
-      "has_item": "2024-12-20 05:29:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-20 06:17:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_slab": {
-    "criteria": {
-      "has_quartz_block": "2024-12-20 05:37:39 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:lord_soul": {
-    "criteria": {
-      "soul": "2024-12-20 05:29:13 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/black_eye": {
-    "criteria": {
-      "black_eye": "2024-12-20 04:52:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_bricks": {
-    "criteria": {
-      "has_quartz_block": "2024-12-20 05:37:39 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/dawnbreaker": {
-    "criteria": {
-      "has_lord_soul": "2024-12-20 05:29:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-20 06:17:38 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/darkin_scythe_pre": {
-    "criteria": {
-      "has_item": "2024-12-20 05:29:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-20 06:17:38 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/soul_reaper": {
-    "criteria": {
-      "has_item": "2024-12-20 05:29:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2024-12-20 04:53:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2024-12-20 06:23:35 +0000"
     },
     "done": true
   },
@@ -3322,129 +3245,15 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/leviathan_axe_right": {
-    "criteria": {
-      "has_item": "2024-12-20 05:29:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-20 06:17:05 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/kraken_slayer": {
-    "criteria": {
-      "has_item": "2024-12-20 05:29:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2024-12-20 04:53:07 +0000"
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/draupnir_spear": {
-    "criteria": {
-      "has_item": "2024-12-20 05:29:13 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/misc/crimson_ingot": {
-    "criteria": {
-      "has_item": "2024-12-20 06:36:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
-    "criteria": {
-      "has_tag": "2024-12-20 06:17:05 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/misc/molten_demon_heart": {
-    "criteria": {
-      "has_item": "2024-12-20 06:36:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_leggings": "2024-12-20 06:23:34 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/holy_moonlight_sword": {
-    "criteria": {
-      "has_lord_soul": "2024-12-20 05:29:13 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/moonlight_shortsword": {
-    "criteria": {
-      "has_lord_soul": "2024-12-20 05:29:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2024-12-20 05:37:39 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/leviathan_axe_left": {
-    "criteria": {
-      "has_item": "2024-12-20 05:29:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2024-12-20 04:54:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2024-12-20 05:36:35 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/comet_spear": {
-    "criteria": {
-      "has_item": "2024-12-20 05:29:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-20 04:53:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2024-12-20 06:41:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_pillar": {
-    "criteria": {
-      "has_quartz_block": "2024-12-20 05:37:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2024-12-20 05:37:39 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/mjolnir": {
-    "criteria": {
-      "has_item": "2024-12-20 05:29:13 +0000"
     },
     "done": true
   },
@@ -3455,58 +3264,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-20 06:17:38 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/darkin_blade": {
-    "criteria": {
-      "has_lord_soul": "2024-12-20 05:29:13 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:draugr_boss": {
-    "criteria": {
-      "soulsweapons:draugr_boss": "2024-12-20 05:17:43 +0000",
-      "soulsweapons:night_shade": "2024-12-20 05:29:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2024-12-20 05:47:15 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/freyr_sword": {
-    "criteria": {
-      "has_item": "2024-12-20 05:29:13 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/darkmoon_longbow": {
-    "criteria": {
-      "has_item": "2024-12-20 05:29:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2024-12-20 04:53:07 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/master_sword": {
-    "criteria": {
-      "has_lord_soul": "2024-12-20 05:29:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2024-12-20 06:23:35 +0000"
     },
     "done": true
   },
@@ -3517,129 +3277,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
-    "criteria": {
-      "has_basalt": "2024-12-20 05:37:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2024-12-20 04:54:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_stairs": {
-    "criteria": {
-      "has_quartz_block": "2024-12-20 05:37:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2024-12-20 05:22:26 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/lich_bane": {
-    "criteria": {
-      "has_item": "2024-12-20 05:29:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_quartz": {
-    "criteria": {
-      "has_quartz_block": "2024-12-20 05:37:39 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:demon_heart": {
-    "criteria": {
-      "items": "2024-12-20 06:36:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2024-12-20 06:23:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
-    "criteria": {
-      "has_quartz_block": "2024-12-20 05:37:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2024-12-20 05:47:15 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/draugr": {
-    "criteria": {
-      "has_item": "2024-12-20 05:29:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2024-12-20 05:37:39 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/galeforce": {
-    "criteria": {
-      "has_item": "2024-12-20 05:29:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-20 04:53:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-20 06:17:38 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/rageblade": {
-    "criteria": {
-      "has_item": "2024-12-20 05:29:13 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/misc/demon_chunk": {
-    "criteria": {
-      "has_item": "2024-12-20 06:36:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-20 04:53:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-20 06:17:05 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/decorations/crimson_obsidian": {
-    "criteria": {
-      "has_item": "2024-12-20 06:36:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-20 06:17:38 +0000"
     },
     "done": true
   },
@@ -3655,21 +3301,172 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/combat/nightfall": {
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2024-12-20 04:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-20 04:54:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-20 04:54:39 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:draugr_boss": {
+    "criteria": {
+      "soulsweapons:draugr_boss": "2024-12-20 05:17:43 +0000",
+      "soulsweapons:night_shade": "2024-12-20 05:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-20 05:22:26 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/darkmoon_longbow": {
+    "criteria": {
+      "has_item": "2024-12-20 05:29:11 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/draugr": {
+    "criteria": {
+      "has_item": "2024-12-20 05:29:11 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/moonlight_greatsword": {
+    "criteria": {
+      "has_lord_soul": "2024-12-20 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/dragonslayer_swordspear": {
     "criteria": {
       "has_item": "2024-12-20 05:29:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+  "soulsweapons:lord_soul": {
     "criteria": {
-      "has_basalt": "2024-12-20 05:37:39 +0000"
+      "soul": "2024-12-20 05:29:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+  "soulsweapons:recipes/combat/dawnbreaker": {
     "criteria": {
-      "has_quartz_block": "2024-12-20 05:37:39 +0000"
+      "has_lord_soul": "2024-12-20 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/darkin_scythe_pre": {
+    "criteria": {
+      "has_item": "2024-12-20 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/soul_reaper": {
+    "criteria": {
+      "has_item": "2024-12-20 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/leviathan_axe_right": {
+    "criteria": {
+      "has_item": "2024-12-20 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/kraken_slayer": {
+    "criteria": {
+      "has_item": "2024-12-20 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/draupnir_spear": {
+    "criteria": {
+      "has_item": "2024-12-20 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/holy_moonlight_sword": {
+    "criteria": {
+      "has_lord_soul": "2024-12-20 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/moonlight_shortsword": {
+    "criteria": {
+      "has_lord_soul": "2024-12-20 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/leviathan_axe_left": {
+    "criteria": {
+      "has_item": "2024-12-20 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/comet_spear": {
+    "criteria": {
+      "has_item": "2024-12-20 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/mjolnir": {
+    "criteria": {
+      "has_item": "2024-12-20 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/darkin_blade": {
+    "criteria": {
+      "has_lord_soul": "2024-12-20 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/freyr_sword": {
+    "criteria": {
+      "has_item": "2024-12-20 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/master_sword": {
+    "criteria": {
+      "has_lord_soul": "2024-12-20 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/lich_bane": {
+    "criteria": {
+      "has_item": "2024-12-20 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/galeforce": {
+    "criteria": {
+      "has_item": "2024-12-20 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/rageblade": {
+    "criteria": {
+      "has_item": "2024-12-20 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/nightfall": {
+    "criteria": {
+      "has_item": "2024-12-20 05:29:13 +0000"
     },
     "done": true
   },
@@ -3679,21 +3476,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2024-12-20 05:47:15 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/whirligig_sawblade": {
     "criteria": {
       "has_item": "2024-12-20 05:29:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2024-12-20 05:37:39 +0000"
     },
     "done": true
   },
@@ -3709,18 +3494,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/sandstone_wall": {
-    "criteria": {
-      "has_sandstone": "2024-12-20 04:53:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2024-12-20 05:37:39 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/skofnung": {
     "criteria": {
       "has_lord_soul": "2024-12-20 05:29:13 +0000"
@@ -3730,6 +3503,246 @@
   "soulsweapons:recipes/combat/forlorn_scythe": {
     "criteria": {
       "has_item": "2024-12-20 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-20 05:36:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2024-12-20 05:37:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2024-12-20 05:37:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-12-20 05:37:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2024-12-20 05:37:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-12-20 05:37:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-20 05:37:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2024-12-20 05:37:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2024-12-20 05:37:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2024-12-20 05:37:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-12-20 05:37:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-12-20 05:37:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-12-20 05:37:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-12-20 05:37:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-20 05:37:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-20 05:47:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-20 05:47:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-20 05:47:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 06:17:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-20 06:17:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 06:17:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 06:17:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 06:17:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 06:17:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 06:17:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 06:17:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 06:17:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-12-20 06:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-12-20 06:23:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-20 06:23:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-20 06:23:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-12-20 06:23:35 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/crimson_ingot": {
+    "criteria": {
+      "has_item": "2024-12-20 06:36:18 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/molten_demon_heart": {
+    "criteria": {
+      "has_item": "2024-12-20 06:36:18 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:demon_heart": {
+    "criteria": {
+      "items": "2024-12-20 06:36:18 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/demon_chunk": {
+    "criteria": {
+      "has_item": "2024-12-20 06:36:18 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/crimson_obsidian": {
+    "criteria": {
+      "has_item": "2024-12-20 06:36:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-20 06:41:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-20 06:51:51 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_diamond": {
+    "criteria": {
+      "requirement": "2024-12-20 06:52:54 +0000"
     },
     "done": true
   },
