@@ -6147,5 +6147,11 @@
     },
     "done": true
   },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2024-12-20 14:54:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

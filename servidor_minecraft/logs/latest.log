@@ -516,3 +516,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [20Dec2024 14:51:54.464] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElTata_[/127.84.218.170:43759] logged in with entity id 6756 at (-18595.580854293465, 41.0, 3707.1119563971556)
 [20Dec2024 14:51:54.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTata_ joined the game
 [20Dec2024 14:51:54.482] [Server thread/INFO] [Jade/]: Syncing config to ElTata_ (596de23a-5665-3bed-874d-497170c43242)
+[20Dec2024 14:54:39.252] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTata_ lost connection: Disconnected
+[20Dec2024 14:54:39.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTata_ left the game
+[20Dec2024 14:54:50.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Oh Shiny]
+[20Dec2024 14:56:48.842] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathan1122 lost connection: Disconnected
+[20Dec2024 14:56:48.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 left the game
+[20Dec2024 14:56:54.059] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jonathan1122[/127.169.8.59:46153] logged in with entity id 18139 at (-1301.8433211959036, 75.875, -72.51751429276054)
+[20Dec2024 14:56:54.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 joined the game
+[20Dec2024 14:56:54.086] [Server thread/INFO] [Jade/]: Syncing config to jonathan1122 (a07659a6-8778-3286-b26a-0e06bd88dc78)
+[20Dec2024 14:57:19.959] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElTata_[/127.84.218.170:44305] logged in with entity id 19167 at (-18584.827360089454, 2.0, 3528.8052914330174)
+[20Dec2024 14:57:19.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTata_ joined the game
+[20Dec2024 14:57:19.976] [Server thread/INFO] [Jade/]: Syncing config to ElTata_ (596de23a-5665-3bed-874d-497170c43242)
+[20Dec2024 14:57:55.407] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElTata_ lost connection: Disconnected
+[20Dec2024 14:57:55.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTata_ left the game
+[20Dec2024 14:58:24.908] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElTata_[/127.84.218.170:50287] logged in with entity id 21446 at (-18571.81626206466, -13.0, 3478.5253844182785)
+[20Dec2024 14:58:24.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElTata_ joined the game
+[20Dec2024 14:58:24.924] [Server thread/INFO] [Jade/]: Syncing config to ElTata_ (596de23a-5665-3bed-874d-497170c43242)
