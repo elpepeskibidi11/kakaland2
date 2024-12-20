@@ -29,7 +29,8 @@
       "minecraft:badlands": "2024-12-18 19:29:07 +0000",
       "minecraft:river": "2024-12-18 18:58:43 +0000",
       "minecraft:dripstone_caves": "2024-12-18 20:00:11 +0000",
-      "minecraft:desert": "2024-12-18 18:57:22 +0000"
+      "minecraft:desert": "2024-12-18 18:57:22 +0000",
+      "minecraft:savanna": "2024-12-20 05:56:07 +0000"
     },
     "done": false
   },
@@ -1751,9 +1752,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2024-12-20 05:56:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-20 05:39:50 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_a": {
+    "criteria": {
+      "customtrigger": "2024-12-20 05:57:24 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_b": {
+    "criteria": {
+      "customtrigger": "2024-12-20 05:57:32 +0000"
     },
     "done": true
   },
@@ -1769,9 +1788,28 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-20 05:56:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-20 05:39:50 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/slashblade_bamboo": {
+    "criteria": {
+      "has_slashblade_wood": "2024-12-20 05:57:02 +0000",
+      "has_the_recipe": "2024-12-20 05:57:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2024-12-20 05:56:45 +0000"
     },
     "done": true
   },
@@ -1790,6 +1828,18 @@
   "soulsweapons:recipes/decorations/blackstone_pedestal": {
     "criteria": {
       "has_item": "2024-12-20 05:40:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-20 05:56:45 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/tagayasan": {
+    "criteria": {
+      "has_slashblade_wood": "2024-12-20 05:57:02 +0000"
     },
     "done": true
   },
@@ -1841,9 +1891,33 @@
     },
     "done": true
   },
+  "slashblade:recipes/combat/orotiagito_sealed": {
+    "criteria": {
+      "has_proudsoul": "2024-12-20 05:57:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-20 05:56:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-20 05:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2024-12-20 05:56:45 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_a": {
+    "criteria": {
+      "customtrigger": "2024-12-20 05:57:43 +0000"
     },
     "done": true
   },
@@ -1859,6 +1933,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-20 05:56:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-20 05:39:50 +0000"
@@ -1868,6 +1948,13 @@
   "soulsweapons:recipes/tools/moonstone_axe_right": {
     "criteria": {
       "has_item": "2024-12-20 05:40:22 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/slashblade_white": {
+    "criteria": {
+      "has_slashblade_wood": "2024-12-20 05:57:02 +0000",
+      "has_the_recipe": "2024-12-20 05:57:02 +0000"
     },
     "done": true
   },
@@ -1913,6 +2000,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2024-12-20 05:56:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-20 05:39:50 +0000"
@@ -1946,6 +2039,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-20 05:39:50 +0000"
+    },
+    "done": true
+  },
+  "slashblade:blade/s_wood": {
+    "criteria": {
+      "crafting": "2024-12-20 05:57:02 +0000"
     },
     "done": true
   },
@@ -1991,9 +2090,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2024-12-20 05:56:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-20 05:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-12-20 05:56:23 +0000"
     },
     "done": true
   },
@@ -2009,6 +2120,12 @@
     },
     "done": true
   },
+  "slashblade:recipes/combat/agito": {
+    "criteria": {
+      "has_proudsoul": "2024-12-20 05:57:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-20 05:39:50 +0000"
@@ -2018,6 +2135,12 @@
   "soulsweapons:recipes/tools/boss_compass": {
     "criteria": {
       "has_item": "2024-12-20 05:40:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-12-20 05:56:23 +0000"
     },
     "done": true
   },

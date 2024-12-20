@@ -164,3 +164,40 @@
 [20Dec2024 05:40:36.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 9zcoloskibidi left the game
 [20Dec2024 05:45:38.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Cover Me In Emeralds]
 [20Dec2024 05:45:39.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Arghh, Where be Me Ship?]
+[20Dec2024 05:52:47.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cleriego> si
+[20Dec2024 05:52:50.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cleriego> pero sin mic
+[20Dec2024 05:53:52.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cleriego was shot by Skeleton
+[20Dec2024 05:57:02.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cleriego has made the advancement [Anonymity -Wood-]
+[20Dec2024 05:57:24.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cleriego has made the advancement [Blade Arts -Combo A-              ]
+[20Dec2024 05:57:32.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cleriego has made the advancement [Blade Arts -Combo B-              ]
+[20Dec2024 05:57:43.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cleriego has made the advancement [Blade Arts -Aerial Rave A-       ]
+[20Dec2024 05:58:48.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cleriego> me voy a dormir
+[20Dec2024 05:58:59.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cleriego> hast mañanaaaa
+[20Dec2024 05:59:01.221] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cleriego lost connection: Disconnected
+[20Dec2024 05:59:01.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cleriego left the game
+[20Dec2024 06:05:00.854] [Worker-Main-323/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[20Dec2024 06:09:57.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joaco_tomsk: Saved the game]
+[20Dec2024 06:11:08.870] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathan1122 lost connection: Disconnected
+[20Dec2024 06:11:08.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 left the game
+[20Dec2024 06:14:34.552] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/281068, l='ServerLevel[world]', x=-9057.50, y=75.00, z=-2329.50]
+[20Dec2024 06:15:25.800] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/281235, l='ServerLevel[world]', x=-9116.50, y=74.00, z=-2385.50]
+[20Dec2024 06:16:06.400] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/281312, l='ServerLevel[world]', x=-9117.50, y=74.00, z=-2387.50]
+[20Dec2024 06:16:21.500] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/281368, l='ServerLevel[world]', x=-9095.50, y=72.00, z=-2343.50]
+[20Dec2024 06:16:39.500] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/281420, l='ServerLevel[world]', x=-9086.50, y=75.00, z=-2358.50]
+[20Dec2024 06:16:47.800] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/281434, l='ServerLevel[world]', x=-9189.50, y=75.00, z=-2237.50]
+[20Dec2024 06:17:00.151] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/281464, l='ServerLevel[world]', x=-9088.50, y=75.00, z=-2358.50]
+[20Dec2024 06:17:04.800] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/281484, l='ServerLevel[world]', x=-9174.50, y=72.00, z=-2353.50]
+[20Dec2024 06:17:07.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk was caught by Archevoker's fangs
+[20Dec2024 06:17:13.611] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/281989, l='ServerLevel[world]', x=-9116.50, y=71.00, z=-2337.50]
+[20Dec2024 06:17:27.150] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/282149, l='ServerLevel[world]', x=-9180.50, y=74.00, z=-2336.50]
+[20Dec2024 06:17:49.900] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/282161, l='ServerLevel[world]', x=-9209.50, y=72.00, z=-2264.50]
+[20Dec2024 06:17:55.800] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/282189, l='ServerLevel[world]', x=-9099.50, y=71.00, z=-2334.50]
+[20Dec2024 06:18:05.500] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/282225, l='ServerLevel[world]', x=-9180.50, y=74.00, z=-2304.50]
+[20Dec2024 06:18:44.550] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/282302, l='ServerLevel[world]', x=-9088.50, y=75.00, z=-2359.50]
+[20Dec2024 06:18:51.700] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/282318, l='ServerLevel[world]', x=-9077.50, y=75.00, z=-2317.50]
+[20Dec2024 06:19:20.400] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/282386, l='ServerLevel[world]', x=-9116.50, y=74.00, z=-2387.50]
+[20Dec2024 06:19:27.100] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/282400, l='ServerLevel[world]', x=-9182.50, y=74.00, z=-2302.50]
+[20Dec2024 06:19:34.201] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/282418, l='ServerLevel[world]', x=-9189.50, y=73.00, z=-2214.50]
+[20Dec2024 06:19:34.850] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/282419, l='ServerLevel[world]', x=-9181.50, y=74.00, z=-2334.50]
+[20Dec2024 06:19:38.250] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/282431, l='ServerLevel[world]', x=-9185.50, y=74.00, z=-2271.50]
+[20Dec2024 06:19:41.051] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/282450, l='ServerLevel[world]', x=-9173.50, y=72.00, z=-2354.50]
