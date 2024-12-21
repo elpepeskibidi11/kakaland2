@@ -513,3 +513,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [21Dec2024 04:24:56.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has completed the challenge [Grimoire of Evokation]
 [21Dec2024 04:32:24.943] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16327, l='ServerLevel[world]', x=-6517.50, y=70.00, z=-4923.50]
 [21Dec2024 04:35:56.402] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/14150, l='ServerLevel[world]', x=-6590.16, y=63.00, z=-4886.49] died, message: 'Unemployed was slain by joaco_tomsk'
+[21Dec2024 04:41:38.304] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/23271, l='ServerLevel[world]', x=-5244.50, y=67.00, z=-5884.50] was struck by lightning LightningBolt['Lightning Bolt'/23651, l='ServerLevel[world]', x=-5245.38, y=67.02, z=-5885.87].
+[21Dec2024 04:42:05.104] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/23234, l='ServerLevel[world]', x=-5243.02, y=68.00, z=-5873.48] was struck by lightning LightningBolt['Lightning Bolt'/23750, l='ServerLevel[world]', x=-5243.15, y=67.02, z=-5874.64].
+[21Dec2024 04:44:11.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [Trick-or-Treat?]
+[21Dec2024 04:44:22.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [Wither You Want It Or Not]
+[21Dec2024 04:44:29.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [A New Protector...]
+[21Dec2024 04:44:33.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [A Nice-y Look]
+[21Dec2024 04:44:37.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [Need A Map?]
+[21Dec2024 04:44:39.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [A Real Blessing]
+[21Dec2024 04:44:41.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [Stare Into Despair]
+[21Dec2024 04:44:43.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [Fallen Sorcerer]

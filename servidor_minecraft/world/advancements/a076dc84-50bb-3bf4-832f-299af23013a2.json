@@ -4294,6 +4294,12 @@
     },
     "done": true
   },
+  "endrem:main/magical_eye": {
+    "criteria": {
+      "magical_eye": "2024-12-21 04:44:43 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/spell_book_evoker": {
     "criteria": {
       "requirement": "2024-12-21 04:24:56 +0000"
@@ -4318,15 +4324,39 @@
     },
     "done": true
   },
+  "endrem:main/wither_eye": {
+    "criteria": {
+      "wither_eye": "2024-12-21 04:44:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2024-12-21 04:17:50 +0000"
     },
     "done": true
   },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2024-12-21 04:44:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-21 04:17:50 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/evil_eye": {
+    "criteria": {
+      "evil_eye": "2024-12-21 04:44:39 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/cold_eye": {
+    "criteria": {
+      "cold_eye": "2024-12-21 04:44:33 +0000"
     },
     "done": true
   },
@@ -4348,9 +4378,27 @@
     },
     "done": true
   },
+  "endrem:main/cursed_eye": {
+    "criteria": {
+      "cursed_eye": "2024-12-21 04:44:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2024-12-21 04:17:50 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/witch_eye": {
+    "criteria": {
+      "witch_eye": "2024-12-21 04:44:11 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2024-12-21 04:44:37 +0000"
     },
     "done": true
   },

@@ -3440,3 +3440,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [21Dec2024 04:40:22.710] [Worker-Main-12/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-5568, y=6, z=-5584}
 [21Dec2024 04:40:45.522] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/22989, l='ServerLevel[world]', x=-5418.61, y=-46.69, z=-5582.48], dimensionLocationPath overworld
 [21Dec2024 04:40:45.523] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/22989, l='ServerLevel[world]', x=-5418.61, y=-46.69, z=-5582.48] in list []
+[21Dec2024 04:40:53.122] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/22989, l='ServerLevel[world]', x=-5418.10, y=-47.02, z=-5582.23, removed=UNLOADED_TO_CHUNK]
+[21Dec2024 04:41:38.304] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/23271, l='ServerLevel[world]', x=-5244.50, y=67.00, z=-5884.50] was struck by lightning LightningBolt['Lightning Bolt'/23651, l='ServerLevel[world]', x=-5245.38, y=67.02, z=-5885.87].
+[21Dec2024 04:42:05.104] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/23234, l='ServerLevel[world]', x=-5243.02, y=68.00, z=-5873.48] was struck by lightning LightningBolt['Lightning Bolt'/23750, l='ServerLevel[world]', x=-5243.15, y=67.02, z=-5874.64].
+[21Dec2024 04:42:15.101] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[21Dec2024 04:42:18.398] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[21Dec2024 04:44:11.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [Trick-or-Treat?]
+[21Dec2024 04:44:22.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [Wither You Want It Or Not]
+[21Dec2024 04:44:29.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [A New Protector...]
+[21Dec2024 04:44:33.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [A Nice-y Look]
+[21Dec2024 04:44:37.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [Need A Map?]
+[21Dec2024 04:44:39.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [A Real Blessing]
+[21Dec2024 04:44:41.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [Stare Into Despair]
+[21Dec2024 04:44:43.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [Fallen Sorcerer]
+[21Dec2024 04:45:04.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 04:45:04.717] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 04:45:44.120] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [07feda2c-9f68-4c56-9d80-e164ab63d11e]
+[21Dec2024 04:45:45.119] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [07feda2c-9f68-4c56-9d80-e164ab63d11e]
+[21Dec2024 04:50:04.697] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 04:50:04.706] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
