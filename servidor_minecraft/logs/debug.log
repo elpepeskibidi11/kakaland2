@@ -3459,3 +3459,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [21Dec2024 04:45:45.119] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [07feda2c-9f68-4c56-9d80-e164ab63d11e]
 [21Dec2024 04:50:04.697] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Dec2024 04:50:04.706] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 04:52:28.050] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: e62c9e27-6540-4fde-8f66-6a7ca3474b57
+[21Dec2024 04:52:28.050] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: e62c9e27-6540-4fde-8f66-6a7ca3474b57
+[21Dec2024 04:52:28.050] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: e62c9e27-6540-4fde-8f66-6a7ca3474b57
+[21Dec2024 04:52:28.050] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: e62c9e27-6540-4fde-8f66-6a7ca3474b57
+[21Dec2024 04:52:28.050] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: e62c9e27-6540-4fde-8f66-6a7ca3474b57
+[21Dec2024 04:53:33.548] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=17955, y=5, z=-9612}
+[21Dec2024 04:55:04.698] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 04:55:04.707] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 05:00:04.694] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 05:00:04.702] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
