@@ -4354,6 +4354,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/guts_sword": {
+    "criteria": {
+      "has_item": "2024-12-21 05:39:08 +0000"
+    },
+    "done": true
+  },
   "packedup:recipes/misc/obsidian_from_diamond": {
     "criteria": {
       "recipe_condition": "2024-12-21 05:19:45 +0000"
@@ -4486,6 +4492,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2024-12-21 05:30:31 +0000"
+    },
+    "done": true
+  },
   "endrem:main/evil_eye": {
     "criteria": {
       "evil_eye": "2024-12-21 04:44:39 +0000"
@@ -4495,6 +4507,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-21 05:19:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-21 05:39:08 +0000"
     },
     "done": true
   },

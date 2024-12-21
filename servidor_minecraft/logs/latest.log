@@ -529,3 +529,64 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [21Dec2024 05:19:45.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [Gotta have that bling]
 [21Dec2024 05:21:16.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [Masquerade]
 [21Dec2024 05:26:05.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has reached the goal [The largest of them all]
+[21Dec2024 05:32:04.324] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jonathan1122[/127.169.8.59:40637] logged in with entity id 37926 at (2247.2361407352882, 94.0, -1262.5189628001365)
+[21Dec2024 05:32:04.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 joined the game
+[21Dec2024 05:32:04.412] [Server thread/INFO] [Jade/]: Syncing config to jonathan1122 (a07659a6-8778-3286-b26a-0e06bd88dc78)
+[21Dec2024 05:32:14.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> buenas
+[21Dec2024 05:32:17.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> buenas
+[21Dec2024 05:32:26.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> conseguiste el ojo?
+[21Dec2024 05:32:26.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> ya tengo el ojo que faltaba
+[21Dec2024 05:32:27.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> si
+[21Dec2024 05:32:30.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> opa
+[21Dec2024 05:32:34.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> ahora voy a buscar el mapa ese
+[21Dec2024 05:32:37.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> me dropeo la lagrima una bruja
+[21Dec2024 05:32:46.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> ya te lo deje en la mochila
+[21Dec2024 05:32:54.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> necesitas mas esencia arcana?
+[21Dec2024 05:33:02.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> si
+[21Dec2024 05:33:19.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> gracias
+[21Dec2024 05:35:54.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> lumalu cobró
+[21Dec2024 05:36:00.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> :P
+[21Dec2024 05:36:03.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> me imagine
+[21Dec2024 05:36:18.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> quienes mas pelearon?
+[21Dec2024 05:36:25.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> el colo y tino
+[21Dec2024 05:36:27.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> se lesionaron los 2
+[21Dec2024 05:36:28.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> y?
+[21Dec2024 05:36:32.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> a no
+[21Dec2024 05:36:34.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> y despues pascuzzi contra titu
+[21Dec2024 05:36:38.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> y se paro porque se puso violento
+[21Dec2024 05:36:41.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> pascuzzi le pego a titu
+[21Dec2024 05:36:49.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> y titu le devolvio a pascuzzi y se corto el labio
+[21Dec2024 05:37:01.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> meu deus
+[21Dec2024 05:40:29.111] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-131, y=64, z=262} BlockPos{x=-130, y=62, z=262}
+[21Dec2024 05:43:11.725] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-370, y=64, z=560} BlockPos{x=-370, y=63, z=562}
+[21Dec2024 05:45:40.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> el peruano me tradea una tinta legendaria por 35 esmeraldas
+[21Dec2024 05:45:52.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> me faltan 5 esmeraldas
+[21Dec2024 05:45:55.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> tenes?
+[21Dec2024 05:46:11.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> gracias
+[21Dec2024 05:47:10.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> no me quiere tirar el puto mapa
+[21Dec2024 05:47:23.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> busca si no hay otra forma
+[21Dec2024 05:48:41.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> mepa que me re chamuyaron y es tirando los ojos
+[21Dec2024 05:48:53.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> sobran un par
+[21Dec2024 05:49:01.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> proba
+[21Dec2024 05:49:05.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> con los de pirata
+[21Dec2024 05:49:10.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> que son los mas faciles
+[21Dec2024 05:49:16.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> ah mierda
+[21Dec2024 05:49:19.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> de donde salieron tantos
+[21Dec2024 05:49:26.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> soy un spawner
+[21Dec2024 05:49:34.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> de 1 solo hechizo o varios?
+[21Dec2024 05:49:55.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> 1 para vex y uno para 6 monstruos
+[21Dec2024 05:50:01.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> 1 para 3 vexes
+[21Dec2024 05:50:09.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> 2 hechizos
+[21Dec2024 05:50:12.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> ah ok
+[21Dec2024 05:50:18.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> te dejo tirar?
+[21Dec2024 05:50:21.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> tire el ojo pero atraveso el arbol y desaparecio
+[21Dec2024 05:50:24.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> aca
+[21Dec2024 05:50:29.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> bueno voy a ver q onda
+[21Dec2024 05:51:12.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> te subiste la o?
+[21Dec2024 05:51:17.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> no
+[21Dec2024 05:51:49.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> descubri unos hechizos electricos
+[21Dec2024 05:51:56.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> tengo el mismo
+[21Dec2024 05:51:58.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> te da mas poder ese no?
+[21Dec2024 05:52:02.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> si
+[21Dec2024 05:52:04.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> tipo fuerza velocidad
+[21Dec2024 05:52:08.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> y spell power
