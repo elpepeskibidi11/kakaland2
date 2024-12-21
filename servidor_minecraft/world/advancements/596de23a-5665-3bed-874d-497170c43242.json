@@ -2129,6 +2129,7 @@
       "minecraft:witch": "2024-12-18 22:37:54 +0000",
       "minecraft:cave_spider": "2024-12-18 20:14:34 +0000",
       "minecraft:silverfish": "2024-12-18 22:54:52 +0000",
+      "minecraft:stray": "2024-12-21 17:01:04 +0000",
       "minecraft:zombie": "2024-12-18 20:14:21 +0000"
     },
     "done": false
@@ -3329,6 +3330,24 @@
   "minecraft:recipes/misc/music_disc_5": {
     "criteria": {
       "has_disc_fragment_5": "2024-12-20 18:58:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-21 17:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-21 17:05:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-21 17:05:25 +0000"
     },
     "done": true
   },
