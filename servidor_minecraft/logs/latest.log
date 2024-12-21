@@ -715,3 +715,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [21Dec2024 06:29:13.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> buenas noches
 [21Dec2024 06:29:14.097] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathan1122 lost connection: Disconnected
 [21Dec2024 06:29:14.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 left the game
+[21Dec2024 06:38:27.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaco_tomsk moved wrongly!
+[21Dec2024 06:39:50.548] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/69364, l='ServerLevel[world]', x=557.51, y=71.94, z=617.49] died, message: 'Nitwit was slain by Zombie'
