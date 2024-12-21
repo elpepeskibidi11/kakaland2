@@ -1858,6 +1858,7 @@
       "minecraft:wither_skeleton": "2024-12-20 04:07:43 +0000",
       "minecraft:piglin": "2024-12-20 03:44:29 +0000",
       "minecraft:enderman": "2024-12-19 04:18:05 +0000",
+      "minecraft:silverfish": "2024-12-21 06:12:37 +0000",
       "minecraft:vex": "2024-12-20 06:21:56 +0000",
       "minecraft:zombie": "2024-12-18 03:17:22 +0000",
       "minecraft:drowned": "2024-12-19 05:26:25 +0000",
@@ -4315,6 +4316,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-21 06:15:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-21 05:19:09 +0000"
@@ -4336,6 +4343,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-12-21 04:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2024-12-21 06:15:15 +0000"
     },
     "done": true
   },
@@ -4372,6 +4385,12 @@
   "endrem:main/magical_eye": {
     "criteria": {
       "magical_eye": "2024-12-21 04:44:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2024-12-21 06:16:39 +0000"
     },
     "done": true
   },
@@ -4525,6 +4544,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-21 06:15:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-21 04:17:50 +0000"
@@ -4561,6 +4586,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-12-21 06:15:11 +0000"
+    },
+    "done": true
+  },
   "endrem:main/cursed_eye": {
     "criteria": {
       "cursed_eye": "2024-12-21 04:44:29 +0000"
@@ -4573,6 +4604,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-21 06:15:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-21 06:15:15 +0000"
+    },
+    "done": true
+  },
   "endrem:main/witch_eye": {
     "criteria": {
       "witch_eye": "2024-12-21 04:44:11 +0000"
@@ -4582,6 +4625,12 @@
   "endrem:main/lost_eye": {
     "criteria": {
       "lost_eye": "2024-12-21 04:44:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-12-21 06:15:11 +0000"
     },
     "done": true
   },
