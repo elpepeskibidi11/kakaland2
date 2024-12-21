@@ -4300,6 +4300,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2024-12-21 05:21:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-21 05:19:09 +0000"
@@ -4549,6 +4555,12 @@
   "endrem:main/lost_eye": {
     "criteria": {
       "lost_eye": "2024-12-21 04:44:37 +0000"
+    },
+    "done": true
+  },
+  "packedup:obsidian_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-21 05:26:05 +0000"
     },
     "done": true
   },
