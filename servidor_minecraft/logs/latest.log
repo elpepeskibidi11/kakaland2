@@ -511,3 +511,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [21Dec2024 04:18:45.625] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [21Dec2024 04:23:14.548] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [21Dec2024 04:24:56.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has completed the challenge [Grimoire of Evokation]
+[21Dec2024 04:32:24.943] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16327, l='ServerLevel[world]', x=-6517.50, y=70.00, z=-4923.50]
+[21Dec2024 04:35:56.402] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/14150, l='ServerLevel[world]', x=-6590.16, y=63.00, z=-4886.49] died, message: 'Unemployed was slain by joaco_tomsk'
