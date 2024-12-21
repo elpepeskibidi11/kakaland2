@@ -2836,12 +2836,18 @@
   "too_many_bows:master_bow_collector": {
     "criteria": {
       "burnt_relic": "2024-12-21 06:01:02 +0000",
+      "flame_bow": "2024-12-21 16:55:40 +0000",
       "dark_bow": "2024-12-21 16:43:29 +0000",
+      "aethers_call": "2024-12-21 16:59:15 +0000",
+      "shulker_blast": "2024-12-21 16:54:34 +0000",
       "arc_heavens": "2024-12-20 06:03:50 +0000",
       "arcane_bow": "2024-12-21 06:01:18 +0000",
       "spectral_whisper": "2024-12-19 18:35:22 +0000",
       "emerald_sage_bow": "2024-12-18 01:58:23 +0000",
+      "demons_grasp": "2024-12-21 16:59:17 +0000",
       "sentinels_wrath": "2024-12-20 15:03:31 +0000",
+      "dragons_breath": "2024-12-21 16:46:51 +0000",
+      "astral_bound": "2024-12-21 16:54:31 +0000",
       "scatter_bow": "2024-12-20 05:10:53 +0000",
       "solar_bow": "2024-12-20 20:43:44 +0000",
       "auroras_grace": "2024-12-21 16:43:21 +0000",
@@ -6492,9 +6498,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-12-21 16:50:04 +0000"
+    },
+    "done": true
+  },
   "too_many_bows:shulker_shell": {
     "criteria": {
       "get_shulker_shell": "2024-12-21 16:43:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-12-21 16:50:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-12-21 16:50:04 +0000"
+    },
+    "done": true
+  },
+  "too_many_bows:shulker_blast": {
+    "criteria": {
+      "get_shulker_blast": "2024-12-21 16:54:34 +0000"
     },
     "done": true
   },
@@ -6504,9 +6534,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-12-21 16:50:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-12-21 16:50:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-12-21 16:53:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/enter_end_gateway": {
     "criteria": {
       "entered_end_gateway": "2024-12-21 16:41:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-12-21 16:50:04 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_guardian": {
+    "criteria": {
+      "enderguardian": "2024-12-21 16:51:32 +0000"
     },
     "done": true
   },

@@ -43,6 +43,7 @@
       "minecraft:stony_shore": "2024-12-18 01:44:04 +0000",
       "minecraft:dripstone_caves": "2024-12-18 02:09:52 +0000",
       "minecraft:swamp": "2024-12-18 00:04:01 +0000",
+      "minecraft:grove": "2024-12-21 16:45:19 +0000",
       "minecraft:forest": "2024-12-17 23:27:58 +0000",
       "minecraft:desert": "2024-12-17 23:14:51 +0000",
       "minecraft:jungle": "2024-12-17 23:26:22 +0000",
@@ -50,6 +51,7 @@
       "minecraft:windswept_savanna": "2024-12-19 17:48:47 +0000",
       "minecraft:warm_ocean": "2024-12-18 01:34:08 +0000",
       "minecraft:flower_forest": "2024-12-19 17:27:44 +0000",
+      "minecraft:frozen_peaks": "2024-12-21 16:45:31 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-18 01:47:15 +0000",
       "minecraft:deep_dark": "2024-12-18 17:47:57 +0000",
       "minecraft:meadow": "2024-12-18 02:24:58 +0000",
@@ -4248,6 +4250,12 @@
   "skilltree:recipes/combat/fiery_quiver": {
     "criteria": {
       "has_blaze_powder": "2024-12-20 05:39:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-12-21 16:53:43 +0000"
     },
     "done": true
   },
