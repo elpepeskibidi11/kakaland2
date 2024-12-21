@@ -722,3 +722,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [21Dec2024 06:47:59.299] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaco_tomsk[/127.79.179.172:48697] logged in with entity id 71201 at (2244.2529840024977, 94.0, -1257.905245549117)
 [21Dec2024 06:47:59.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk joined the game
 [21Dec2024 06:47:59.325] [Server thread/INFO] [Jade/]: Syncing config to joaco_tomsk (a076dc84-50bb-3bf4-832f-299af23013a2)
+[21Dec2024 07:38:43.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joaco_tomsk: Gave 1 [Name Tag] to joaco_tomsk]
+[21Dec2024 07:38:48.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joaco_tomsk: Gave 1 [Anvil] to joaco_tomsk]
