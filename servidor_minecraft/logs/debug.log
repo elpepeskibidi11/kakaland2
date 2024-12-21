@@ -5696,3 +5696,46 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [21Dec2024 06:22:52.281] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
 [21Dec2024 06:22:55.925] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [a07659a6-8778-3286-b26a-0e06bd88dc78]
 [21Dec2024 06:22:57.376] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [527fd7db-f46a-4e0b-874c-d67798cee668]
+[21Dec2024 06:24:39.523] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[21Dec2024 06:25:07.611] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 06:25:07.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 06:25:32.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Free the End]
+[21Dec2024 06:25:32.531] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_dragon_loot
+[21Dec2024 06:25:39.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> te dejo la xp
+[21Dec2024 06:25:42.507] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/66999, l='ServerLevel[world]', x=0.47, y=66.35, z=1.41], dimensionLocationPath the_end
+[21Dec2024 06:25:42.507] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ItemEntity['Torch'/66999, l='ServerLevel[world]', x=0.47, y=66.35, z=1.41] is dead or in a banned dimension the_end
+[21Dec2024 06:25:42.507] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/66998, l='ServerLevel[world]', x=1.72, y=66.46, z=0.50], dimensionLocationPath the_end
+[21Dec2024 06:25:42.507] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ItemEntity['Torch'/66998, l='ServerLevel[world]', x=1.72, y=66.46, z=0.50] is dead or in a banned dimension the_end
+[21Dec2024 06:25:43.248] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/67016, l='ServerLevel[world]', x=-31.50, y=66.00, z=-47.50], dimensionLocationPath overworld
+[21Dec2024 06:25:43.248] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/67016, l='ServerLevel[world]', x=-31.50, y=66.00, z=-47.50] in list []
+[21Dec2024 06:25:59.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> gracias
+[21Dec2024 06:26:27.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> tenes para lo q necesitabas?
+[21Dec2024 06:26:31.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> si
+[21Dec2024 06:26:41.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> me dio 10 dragon skin
+[21Dec2024 06:26:44.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> necesitaba 6
+[21Dec2024 06:26:47.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> uff
+[21Dec2024 06:26:54.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> agarras el huevo?
+[21Dec2024 06:26:57.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> el guebo
+[21Dec2024 06:26:59.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> no se como se hace
+[21Dec2024 06:27:17.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> tenes algun bloque que no tenga la hitbox entera?
+[21Dec2024 06:27:20.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> estilo
+[21Dec2024 06:27:23.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> antorcha
+[21Dec2024 06:27:26.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> slab
+[21Dec2024 06:27:32.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> cofre
+[21Dec2024 06:27:44.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> esto sirve?
+[21Dec2024 06:27:46.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> creo que sirve
+[21Dec2024 06:28:05.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has reached the goal [The Next Generation]
+[21Dec2024 06:28:14.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has reached the goal [The Next Generation]
+[21Dec2024 06:28:15.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> grax
+[21Dec2024 06:28:15.400] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [5dc08241-5bba-4fbe-a05a-1b683a643e44]
+[21Dec2024 06:28:28.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> toca granja
+[21Dec2024 06:28:30.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> si
+[21Dec2024 06:28:38.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> 81 niveles
+[21Dec2024 06:28:41.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> igual mepa que ya me voy a dormir
+[21Dec2024 06:28:44.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> toca mejorar la O
+[21Dec2024 06:28:52.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> buenas noches
+[21Dec2024 06:29:13.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> buenas noches
+[21Dec2024 06:29:14.097] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathan1122 lost connection: Disconnected
+[21Dec2024 06:29:14.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 left the game
+[21Dec2024 06:30:07.600] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 06:30:07.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
