@@ -2833,7 +2833,9 @@
   },
   "too_many_bows:master_bow_collector": {
     "criteria": {
+      "burnt_relic": "2024-12-21 06:01:02 +0000",
       "arc_heavens": "2024-12-20 06:03:50 +0000",
+      "arcane_bow": "2024-12-21 06:01:18 +0000",
       "spectral_whisper": "2024-12-19 18:35:22 +0000",
       "emerald_sage_bow": "2024-12-18 01:58:23 +0000",
       "sentinels_wrath": "2024-12-20 15:03:31 +0000",
@@ -6369,6 +6371,18 @@
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2024-12-20 21:46:19 +0000"
+    },
+    "done": true
+  },
+  "too_many_bows:ancient_sage": {
+    "criteria": {
+      "get_ancient_sage": "2024-12-21 06:02:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-12-21 06:08:49 +0000"
     },
     "done": true
   },

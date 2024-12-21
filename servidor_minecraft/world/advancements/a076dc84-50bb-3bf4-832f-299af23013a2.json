@@ -2863,10 +2863,13 @@
   },
   "too_many_bows:master_bow_collector": {
     "criteria": {
+      "burnt_relic": "2024-12-21 05:57:17 +0000",
+      "aethers_call": "2024-12-21 06:02:45 +0000",
       "arc_heavens": "2024-12-20 19:55:28 +0000",
       "arcane_bow": "2024-12-19 23:35:10 +0000",
       "spectral_whisper": "2024-12-20 04:08:25 +0000",
       "emerald_sage_bow": "2024-12-20 19:38:33 +0000",
+      "demons_grasp": "2024-12-21 06:02:36 +0000",
       "cyroheart_bow": "2024-12-20 19:27:15 +0000",
       "vitality_weaver": "2024-12-20 19:57:25 +0000"
     },
@@ -4549,6 +4552,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-21 05:19:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-12-21 06:08:49 +0000"
     },
     "done": true
   },

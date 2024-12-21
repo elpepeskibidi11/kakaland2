@@ -590,3 +590,46 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [21Dec2024 05:52:02.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> si
 [21Dec2024 05:52:04.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> tipo fuerza velocidad
 [21Dec2024 05:52:08.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> y spell power
+[21Dec2024 05:52:19.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> lo hice en epico para probar
+[21Dec2024 05:52:26.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> ahora me lo hago legendario
+[21Dec2024 05:55:17.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> opa
+[21Dec2024 05:55:19.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> lo encontramos
+[21Dec2024 05:55:25.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> yo bajo
+[21Dec2024 05:55:27.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> oka
+[21Dec2024 05:56:12.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> no me carga el mapa todavia
+[21Dec2024 05:57:01.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> lo veo
+[21Dec2024 05:57:17.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> [x:303, y:-37, z:-1884, dim:minecraft:overworld]
+[21Dec2024 05:57:35.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> t
+[21Dec2024 05:58:06.455] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathan1122 lost connection: Disconnected
+[21Dec2024 05:58:06.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 left the game
+[21Dec2024 05:58:06.507] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Dec2024 05:58:13.733] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jonathan1122[/127.169.8.59:47743] logged in with entity id 52044 at (225.60329114164378, -51.0, -1863.3669786210614)
+[21Dec2024 05:58:13.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 joined the game
+[21Dec2024 05:58:13.817] [Server thread/INFO] [Jade/]: Syncing config to jonathan1122 (a07659a6-8778-3286-b26a-0e06bd88dc78)
+[21Dec2024 05:58:20.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> uy
+[21Dec2024 05:58:42.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> matalos
+[21Dec2024 05:58:47.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> te pegan por tu collar
+[21Dec2024 05:59:53.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> nos fuimos robados?
+[21Dec2024 06:00:09.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> hay q buscar
+[21Dec2024 06:02:20.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jonathan1122 moved wrongly!
+[21Dec2024 06:02:37.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Ancient Sage]
+[21Dec2024 06:02:55.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> encontre otro ojo
+[21Dec2024 06:02:59.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> joya
+[21Dec2024 06:03:00.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> lost eye
+[21Dec2024 06:03:31.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> yo veo formas turbias en el mapa
+[21Dec2024 06:03:33.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> pero no se si seran
+[21Dec2024 06:03:46.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> sino subimos y chequeamos otra vez
+[21Dec2024 06:03:49.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> sobran otras
+[21Dec2024 06:05:41.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> yo subo
+[21Dec2024 06:05:45.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> ok
+[21Dec2024 06:07:07.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> estoy arriba
+[21Dec2024 06:07:10.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> yo sigo en eso
+[21Dec2024 06:07:26.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> listo
+[21Dec2024 06:08:11.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaco_tomsk moved wrongly!
+[21Dec2024 06:08:25.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> aca
+[21Dec2024 06:08:33.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> por aca abajo se supone
+[21Dec2024 06:08:49.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk has made the advancement [Eye Spy]
+[21Dec2024 06:08:49.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Eye Spy]
+[21Dec2024 06:08:50.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> sep
+[21Dec2024 06:12:28.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaco_tomsk> q dice pascuzzi
+[21Dec2024 06:12:34.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jonathan1122> d q
