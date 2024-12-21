@@ -512,3 +512,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:brass_nugget'
 [21Dec2024 16:35:48.271] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@40c8a946[id=<null>,name=jonathan1122,properties={},legacy=false] (/127.169.8.59:37215) lost connection: Disconnected
 [21Dec2024 16:37:47.812] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@282423d7[id=<null>,name=jonathan1122,properties={},legacy=false] (/127.169.8.59:32913) lost connection: Disconnected
 [21Dec2024 16:38:19.714] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3c2bcf76[id=<null>,name=jonathan1122,properties={},legacy=false] (/127.169.8.59:55397) lost connection: Disconnected
+[21Dec2024 16:38:52.713] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3a6adc22[id=<null>,name=jonathan1122,properties={},legacy=false] (/127.169.8.59:51285) lost connection: Disconnected
+[21Dec2024 16:39:27.713] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@149d0d5d[id=<null>,name=jonathan1122,properties={},legacy=false] (/127.169.8.59:49517) lost connection: Disconnected
+[21Dec2024 16:40:45.069] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@522ecb17[id=<null>,name=jonathan1122,properties={},legacy=false] (/127.169.8.59:39605) lost connection: Disconnected
+[21Dec2024 16:40:52.327] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jonathan1122[/127.169.8.59:38613] logged in with entity id 1084 at (-2.620853863602082, 65.0, 0.7681276655923837)
+[21Dec2024 16:40:52.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 joined the game
+[21Dec2024 16:40:52.437] [Server thread/INFO] [Jade/]: Syncing config to jonathan1122 (a07659a6-8778-3286-b26a-0e06bd88dc78)
+[21Dec2024 16:41:30.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 9zcoloskibidi moved too quickly! 157.30297073680322,40.665637353437916,-14.183918717042161
+[21Dec2024 16:41:36.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Remote Getaway]
+[21Dec2024 16:42:44.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [A Ruined Citadel]
+[21Dec2024 16:43:16.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Shulker's Gift]
+[21Dec2024 16:44:24.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jonathan1122 has made the advancement [Palette Swap]
+[21Dec2024 16:48:52.887] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaco_tomsk[/127.79.179.172:57279] logged in with entity id 5462 at (-13.800912426562393, 1.0, -272.2731284022298)
+[21Dec2024 16:48:52.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaco_tomsk joined the game
+[21Dec2024 16:48:52.961] [Server thread/INFO] [Jade/]: Syncing config to joaco_tomsk (a076dc84-50bb-3bf4-832f-299af23013a2)

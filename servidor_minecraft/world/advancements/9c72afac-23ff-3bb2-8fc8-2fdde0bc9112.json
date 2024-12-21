@@ -3999,51 +3999,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_helmet": {
+  "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
-      "has_leather": "2024-12-20 04:44:13 +0000"
+      "has_netherite_scrap": "2024-12-20 04:36:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_leggings": {
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
-      "has_leather": "2024-12-20 04:44:13 +0000"
+      "has_iron_nugget": "2024-12-20 04:36:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_slab": {
+  "skilltree:recipes/misc/iron_ring": {
     "criteria": {
-      "has_quartz_block": "2024-12-20 05:39:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2024-12-20 05:39:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_bricks": {
-    "criteria": {
-      "has_quartz_block": "2024-12-20 05:39:24 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/combat/quiver": {
-    "criteria": {
-      "has_leather": "2024-12-20 04:44:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2024-12-20 04:44:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2024-12-20 04:56:16 +0000"
+      "has_nuggets_iron": "2024-12-20 04:36:06 +0000"
     },
     "done": true
   },
@@ -4059,39 +4029,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+  "soulsweapons:demon_heart": {
     "criteria": {
-      "has_quartz_block": "2024-12-20 05:39:24 +0000"
+      "items": "2024-12-20 04:37:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_ingot": {
+  "soulsweapons:recipes/misc/demon_chunk": {
     "criteria": {
-      "has_netherite_scrap": "2024-12-20 04:36:06 +0000"
+      "has_item": "2024-12-20 04:37:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/fire_charge": {
+  "soulsweapons:recipes/decorations/crimson_obsidian": {
     "criteria": {
-      "has_blaze_powder": "2024-12-20 05:39:42 +0000"
+      "has_item": "2024-12-20 04:37:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_pillar": {
+  "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
-      "has_quartz_block": "2024-12-20 05:39:24 +0000"
+      "has_leather": "2024-12-20 04:44:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite": {
+  "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
-      "has_quartz": "2024-12-20 05:39:13 +0000"
+      "has_leather": "2024-12-20 04:44:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+  "skilltree:recipes/combat/quiver": {
     "criteria": {
-      "has_quartz_block": "2024-12-20 05:39:24 +0000"
+      "has_leather": "2024-12-20 04:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-20 04:44:13 +0000"
     },
     "done": true
   },
@@ -4101,15 +4077,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite": {
+  "minecraft:recipes/decorations/item_frame": {
     "criteria": {
-      "has_quartz": "2024-12-20 05:39:13 +0000"
+      "has_leather": "2024-12-20 04:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-20 04:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-20 04:50:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-20 04:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-20 04:56:16 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/dragon_staff": {
+    "criteria": {
+      "has_item": "2024-12-20 04:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-20 04:56:16 +0000"
     },
     "done": true
   },
   "slashblade:abilities/trick_dodge": {
     "criteria": {
       "customtrigger": "2024-12-20 04:57:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-20 05:39:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-20 05:39:13 +0000"
     },
     "done": true
   },
@@ -4137,6 +4161,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2024-12-20 05:39:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2024-12-20 05:39:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-12-20 05:39:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2024-12-20 05:39:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-12-20 05:39:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2024-12-20 05:39:24 +0000"
@@ -4146,12 +4200,6 @@
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2024-12-20 05:39:24 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:demon_heart": {
-    "criteria": {
-      "items": "2024-12-20 04:37:23 +0000"
     },
     "done": true
   },
@@ -4167,45 +4215,9 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/misc/demon_chunk": {
-    "criteria": {
-      "has_item": "2024-12-20 04:37:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2024-12-20 04:44:13 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/decorations/crimson_obsidian": {
-    "criteria": {
-      "has_item": "2024-12-20 04:37:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-20 05:39:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2024-12-20 05:39:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2024-12-20 04:56:16 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/dragon_staff": {
-    "criteria": {
-      "has_item": "2024-12-20 04:56:16 +0000"
     },
     "done": true
   },
@@ -4215,39 +4227,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_boots": {
+  "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
-      "has_leather": "2024-12-20 04:44:13 +0000"
+      "has_blaze_powder": "2024-12-20 05:39:42 +0000"
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "minecraft:recipes/misc/fire_charge": {
     "criteria": {
-      "fortress": "2024-12-20 04:50:39 +0000"
+      "has_blaze_powder": "2024-12-20 05:39:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-20 05:39:42 +0000"
     },
     "done": true
   },
   "skilltree:recipes/combat/fiery_quiver": {
     "criteria": {
       "has_blaze_powder": "2024-12-20 05:39:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/brewing_stand": {
-    "criteria": {
-      "has_blaze_rod": "2024-12-20 04:56:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2024-12-20 04:36:06 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/misc/iron_ring": {
-    "criteria": {
-      "has_nuggets_iron": "2024-12-20 04:36:06 +0000"
     },
     "done": true
   },
